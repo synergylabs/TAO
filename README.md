@@ -2,7 +2,7 @@
 
 [[paper (IMWUT 2023)](https://doi.org/10.1145/3610896)]
 [[talk (IMWUT 2023)](https://www.youtube.com/)]
-[[demo video]](https://www.youtube.com/)
+[[demo video](https://www.youtube.com/)]
 
 **Authors:**
 [[Sudershan Boovaraghavan](https://sudershanb.com/)]
