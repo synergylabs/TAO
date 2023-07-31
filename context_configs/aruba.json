@@ -1,0 +1,107 @@
+{
+  // Global Configs
+  "experiment": "-",
+  "mode": "train",
+  "model_re": "-",
+  //possible options are none, cnn_ae, fcn_ae, dtc
+  "model_cluster": "-",
+  //possible options are kmeans, dbscan, optics
+  "model_labeler": "ontolist",
+  "cache_dir": "cache/dataset_naming",
+  "log_dir": "cache/logs/dataset_naming",
+  "evaluate_wellness": false,
+  "verbose": true,
+  //print debug information during training
+
+  // Activity dataset configs
+  "dataset": "aruba",
+  "datafile": "datasets/aruba_dataset.csv",
+  "parse_style": "stack_merge",
+  // for other kinds of data parsing
+  "access_cache": false,
+  "lag_parameter": 180, //how many data points to stack vertically
+  "merge_mins": 1, // how many points to merge horizontally
+  "sliding_parameter": 10,
+  "max_time_interval_in_mins": 360, //twice lag_parameter * merge_mins
+  "activity_labels": [
+    "None",
+    "Sleeping",
+    "Bed_to_Toilet",
+    "Meal_Preparation",
+    "Relax",
+    "Housekeeping",
+    "Eating",
+    "Work",
+    "Wash_Dishes",
+    "Leave_Home",
+    "Resperate",
+    "Enter_Home"
+  ],
+  "parse_unique_data": true,
+  // If true, only pick unique values from context windows for representation learning
+
+
+  // context labeling config
+  "context_owl_file": "ontological_models/context-v2.owl",
+  "context_n3_file": "ontological_models/context-v2.n3",
+  "context_ttl_file": "ontological_models/context-v2.ttl",
+  // --------------Representation learning Configs--------------
+  "device": "cpu",
+  "num_epochs_ae": 80,
+  "use_pretrained_model": true,
+  "embedding_size": 32,
+  //  "l1_kernel_size": -1, // if -1, l1 kernel size is same as num of activities
+  "lr_ae": 1e-3,
+  "train_test_ratio_re": 0.8,
+  "batch_size_re": 50,
+  "shuffle_re": true,
+  "log_interval_ae": 500,
+  // FCN AE Specific Configs
+  "fcn_hidden_size": 64,
+  //CNN AE Specific Config
+  "cnn_kernel_size": 10,
+  "cnn_channel_mult": 10,
+  // Temporal AE Specific Configs
+
+  "tae_pool_layer_size": 5,
+  "tae_cnn_filter_count": 50,
+  "tae_filter_lstm": [
+    50,
+    1
+  ],
+  "tae_cnn_kernel_size": 10,
+  // --------------Clustering configs --------------
+  "num_epochs_cluster": 40,
+  "lr_cluster": 1e-2,
+  "train_test_ratio_cluster": 0.8,
+  "batch_size_cluster": 50,
+  "shuffle_cluster": true,
+  "log_interval_cluster": 500,
+  "plot_clusters": true,
+  // if true, run tSNE and plot cluster labels in 2D
+
+  // kmeans configs
+  "kmeans_min_clusters": 10,
+  "kmeans_max_clusters": 20,
+  "kmeans_selection_metric": "sil",
+  // dbscan configs
+  "dbscan_eps": false,
+  // False if we need to allow auto calculation
+  "dbscan_min_pts": false,
+  //fasle if we need to allow auto calculation
+
+  // optics configs
+  "optics_min_pts_lb": 10,
+  "optics_min_pts_ub": 11,
+  "optics_min_pts": false,
+  // False if we want to calculate based on lower bound and upper bound provided above
+  "optics_max_eps": 1,
+  //temporal clustering configs
+  "cnet_alpha": 1,
+  "cnet_n_clusters": 15,
+  "cnet_similarity": "CID",
+  "cnet_max_patience": 5,
+  "cnet_momentum": 0.9,
+  "cnet_shuffle": true,
+  "cnet_cluster_loss_ratio": 0.6
+}
