@@ -196,10 +196,10 @@ def run_context_training(config, base_config, logger):
 
 
 if __name__ == '__main__':
-    # from train_configs.sep10_config import get_configs
-    from train_configs.sep10_inc_config import get_configs
-    # from train_configs.sep12_realworld_config import get_configs
-    # from train_configs.sep13_mites_config import get_configs
+    from training_configs.RQ1a_complete_training_config import get_configs
+    from training_configs.RQ1b_incremental_training_config import get_configs
+    from training_configs.RQ3_realworld_training_config import get_configs
+    from training_configs.RQ3_realworld_activity_predictions_training_config import get_configs
 
     final_configs = get_configs()
 
