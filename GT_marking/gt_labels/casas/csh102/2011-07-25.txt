@@ -1,0 +1,5 @@
+start_time,end_time,context
+01:17,09:10,Sleeping
+21:03,22:48,Sleeping
+14:01,15:01,Amusement
+09:17,09:54,OfficeWork

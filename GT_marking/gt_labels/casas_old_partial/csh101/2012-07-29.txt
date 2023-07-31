@@ -1,0 +1,11 @@
+start_time,end_time,context
+00:57,06:44,Sleeping
+06:53,06:56,Meal_Preparation
+06:57,07:10,HavingMeal
+07:11,08:30,OfficeWork
+08:33,08:44,Exercising
+10:09,10:18,Exercising
+10:19,12:23,Sleeping
+12:23,12:56,Relaxing
+12:44,13:00,GoingOut
+18:49,23:47,Relaxing

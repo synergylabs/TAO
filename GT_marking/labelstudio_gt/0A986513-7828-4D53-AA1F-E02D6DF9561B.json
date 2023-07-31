@@ -1,0 +1,446 @@
+[
+  {
+    "timeseriesUrl": "/data/upload/3/19430135-2015-12-11.csv",
+    "id": 8,
+    "label": [
+      {
+        "start": "2015-12-11 00:01:18",
+        "end": "2015-12-11 06:30:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2015-12-11 10:15:27",
+        "end": "2015-12-11 10:22:27",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2015-12-11 06:45:18",
+        "end": "2015-12-11 06:49:18",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-12-11 07:49:18",
+        "end": "2015-12-11 07:52:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-12-11 10:24:27",
+        "end": "2015-12-11 10:46:27",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-11 10:04:18",
+        "end": "2015-12-11 10:22:27",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-12-11 06:31:18",
+        "end": "2015-12-11 06:44:18",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2022-08-11T11:50:57.032926Z",
+    "updated_at": "2022-08-11T11:50:57.032954Z",
+    "lead_time": 122.806
+  },
+  {
+    "timeseriesUrl": "/data/upload/3/609bae89-2015-12-10.csv",
+    "id": 11,
+    "label": [
+      {
+        "start": "2015-12-10 07:19:58",
+        "end": "2015-12-10 07:40:58",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-12-10 00:02:17",
+        "end": "2015-12-10 07:14:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2015-12-10 23:53:18",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2015-12-10 23:32:18",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2015-12-10 23:38:18",
+        "end": "2015-12-10 23:56:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2015-12-10 14:17:58",
+        "end": "2015-12-10 15:02:58",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2015-12-10 18:57:58",
+        "end": "2015-12-10 19:18:18",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2015-12-10 22:48:18",
+        "end": "2015-12-10 23:13:18",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-12-10 22:38:18",
+        "end": "2015-12-10 22:53:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Exercising"
+        ]
+      },
+      {
+        "start": "2015-12-10 19:35:18",
+        "end": "2015-12-10 22:46:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-10 07:41:58",
+        "end": "2015-12-10 16:07:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-10 17:28:58",
+        "end": "2015-12-10 18:08:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-12-10 18:50:58",
+        "end": "2015-12-10 19:23:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-10 19:11:58",
+        "end": "2015-12-10 19:41:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-12-10 16:09:58",
+        "end": "2015-12-10 17:28:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2015-12-10 18:10:58",
+        "end": "2015-12-10 18:48:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2022-08-11T11:48:49.881721Z",
+    "updated_at": "2022-08-11T11:48:49.881749Z",
+    "lead_time": 376.974
+  },
+  {
+    "timeseriesUrl": "/data/upload/3/5512ef50-2015-12-09.csv",
+    "id": 10,
+    "label": [
+      {
+        "start": "2015-12-09 00:18:10",
+        "end": "2015-12-09 00:45:10",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-12-09 01:22:10",
+        "end": "2015-12-09 10:22:05",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2015-12-09 10:38:05",
+        "end": "2015-12-09 11:19:04",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-12-09 13:26:44",
+        "end": "2015-12-09 13:58:44",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2015-12-09 13:59:44",
+        "end": "2015-12-09 14:51:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-09 18:06:44",
+        "end": "2015-12-09 22:16:20",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-09 21:07:44",
+        "end": "2015-12-09 21:17:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-12-09 17:59:44",
+        "end": "2015-12-09 18:07:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-12-09 22:55:17",
+        "end": "2015-12-09 23:30:17",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2015-12-09 22:17:30",
+        "end": "2015-12-09 22:38:31",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-12-09 11:23:04",
+        "end": "2015-12-09 13:23:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2015-12-09 14:55:44",
+        "end": "2015-12-09 17:51:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2022-08-11T11:42:30.392435Z",
+    "updated_at": "2022-08-11T11:42:30.392462Z",
+    "lead_time": 270.448
+  },
+  {
+    "timeseriesUrl": "/data/upload/3/dc6e6767-2015-12-08.csv",
+    "id": 9,
+    "label": [
+      {
+        "start": "2015-12-08 11:10:55",
+        "end": "2015-12-08 11:32:55",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2015-12-08 11:51:55",
+        "end": "2015-12-08 12:09:55",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2015-12-08 14:52:40",
+        "end": "2015-12-08 15:10:40",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2015-12-08 18:36:40",
+        "end": "2015-12-08 18:44:40",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2015-12-08 14:14:55",
+        "end": "2015-12-08 14:36:55",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-12-08 19:24:40",
+        "end": "2015-12-08 19:47:06",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-12-08 11:33:55",
+        "end": "2015-12-08 14:06:55",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-08 14:13:55",
+        "end": "2015-12-08 14:38:55",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-08 23:35:06",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-08 19:48:06",
+        "end": "2015-12-08 23:57:06",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-08 16:28:40",
+        "end": "2015-12-08 19:24:40",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-08 15:16:40",
+        "end": "2015-12-08 16:24:40",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2015-12-08 11:33:55",
+        "end": "2015-12-08 11:48:55",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-12-08 14:50:55",
+        "end": "2015-12-08 15:12:40",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2015-12-08 18:14:40",
+        "end": "2015-12-08 19:23:40",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2022-08-11T11:34:20.090096Z",
+    "updated_at": "2022-08-11T11:34:20.090126Z",
+    "lead_time": 403.051
+  }
+]

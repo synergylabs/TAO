@@ -1,0 +1,288 @@
+[
+  {
+    "timeseriesUrl": "/data/upload/7/b7dc08a2-2015-08-31.csv",
+    "id": 33,
+    "label": [
+      {
+        "start": "2015-08-31 09:26:38",
+        "end": "2015-08-31 09:42:44",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-08-31 17:48:19",
+        "end": "2015-08-31 17:54:59",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-08-31 21:23:41",
+        "end": "2015-08-31 21:46:17",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-08-31 15:20:59",
+        "end": "2015-08-31 16:50:29",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2015-08-31 17:24:16",
+        "end": "2015-08-31 17:47:51",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-08-31 12:24:15",
+        "end": "2015-08-31 12:38:22",
+        "instant": false,
+        "timeserieslabels": [
+          "Exercising"
+        ]
+      },
+      {
+        "start": "2015-08-31 03:41:09",
+        "end": "2015-08-31 04:07:59",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2015-08-31 18:50:31",
+        "end": "2015-08-31 19:52:09",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2015-08-31 00:03:43",
+        "end": "2015-08-31 03:38:12",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2015-08-31 13:35:30",
+        "end": "2015-08-31 14:45:59",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2015-08-31 21:51:02",
+        "end": "2015-08-31 23:55:26",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2015-08-31 18:00:01",
+        "end": "2015-08-31 18:49:24",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2015-08-31 11:03:24",
+        "end": "2015-08-31 12:21:40",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2015-08-31 13:15:28",
+        "end": "2015-08-31 13:57:01",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2015-08-31 15:01:44",
+        "end": "2015-08-31 15:19:03",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2015-08-31 02:13:07",
+        "end": "2015-08-31 02:28:10",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-08-31 12:40:30",
+        "end": "2015-08-31 13:14:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-08-31 14:47:00",
+        "end": "2015-08-31 14:58:08",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-08-31 10:53:13",
+        "end": "2015-08-31 11:02:45",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-08-31 16:51:03",
+        "end": "2015-08-31 17:18:29",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2022-08-11T14:57:33.215126Z",
+    "updated_at": "2022-08-11T14:57:33.215154Z",
+    "lead_time": 332.716
+  },
+  {
+    "timeseriesUrl": "/data/upload/7/4ccd99d0-2015-08-26.csv",
+    "id": 28,
+    "label": [
+      {
+        "start": "2015-08-26 19:31:43",
+        "end": "2015-08-26 19:51:22",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-08-26 21:35:14",
+        "end": "2015-08-26 21:50:12",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2015-08-26 21:50:12",
+        "end": "2015-08-26 22:19:47",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2015-08-26 19:51:22",
+        "end": "2015-08-26 20:16:50",
+        "instant": false,
+        "timeserieslabels": [
+          "Exercising"
+        ]
+      },
+      {
+        "start": "2015-08-26 21:13:21",
+        "end": "2015-08-26 21:34:32",
+        "instant": false,
+        "timeserieslabels": [
+          "Exercising"
+        ]
+      },
+      {
+        "start": "2015-08-26 16:53:24",
+        "end": "2015-08-26 19:14:17",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2015-08-26 20:55:16",
+        "end": "2015-08-26 21:11:15",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2015-08-26 22:20:43",
+        "end": "2015-08-26 23:57:14",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2015-08-26 15:36:39",
+        "end": "2015-08-26 15:46:40",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2015-08-26 15:50:44",
+        "end": "2015-08-26 16:50:11",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2015-08-26 15:18:53",
+        "end": "2015-08-26 15:31:45",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2015-08-26 19:15:17",
+        "end": "2015-08-26 19:23:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2015-08-26 20:19:26",
+        "end": "2015-08-26 20:51:53",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2022-08-11T14:51:40.919754Z",
+    "updated_at": "2022-08-11T14:51:40.919784Z",
+    "lead_time": 403.375
+  }
+]

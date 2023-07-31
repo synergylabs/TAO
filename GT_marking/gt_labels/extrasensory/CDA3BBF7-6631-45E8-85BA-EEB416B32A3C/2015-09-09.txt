@@ -1,0 +1,10 @@
+start_time,end_time,context
+10:00,10:30,InAMeeting
+10:45,12:30,Amusement
+12:30,13:00,HavingMeal
+13:00,14:00,Amusement
+14:00,15:00,HouseWork
+15:00,20:00,Sleeping
+20:00,20:30,HavingMeal
+20:30,22:30,Sleeping
+22:30,23:59,Relaxing

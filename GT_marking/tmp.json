@@ -1,0 +1,58 @@
+[
+  {
+    "start": "2015-10-05 14:30:32",
+    "end": "2015-10-05 16:00:55",
+    "instant": false,
+    "timeserieslabels": [
+      "OfficeWork"
+    ]
+  },
+  {
+    "start": "2015-10-05 17:30:35",
+    "end": "2015-10-05 18:07:35",
+    "instant": false,
+    "timeserieslabels": [
+      "HavingMeal"
+    ]
+  },
+  {
+    "start": "2015-10-05 17:28:35",
+    "end": "2015-10-05 18:06:35",
+    "instant": false,
+    "timeserieslabels": [
+      "PreparingMeal"
+    ]
+  },
+  {
+    "start": "2015-10-05 15:58:32",
+    "end": "2015-10-05 16:41:57",
+    "instant": false,
+    "timeserieslabels": [
+      "InAMeeting"
+    ]
+  },
+  {
+    "start": "2015-10-05 18:05:35",
+    "end": "2015-10-05 23:02:36",
+    "instant": false,
+    "timeserieslabels": [
+      "Relaxing"
+    ]
+  },
+  {
+    "start": "2015-10-05 16:41:57",
+    "end": "2015-10-05 17:02:57",
+    "instant": false,
+    "timeserieslabels": [
+      "Commuting"
+    ]
+  },
+  {
+    "start": "2015-10-05 23:06:37",
+    "end": "2015-10-05 23:25:35",
+    "instant": false,
+    "timeserieslabels": [
+      "Sleeping"
+    ]
+  }
+]

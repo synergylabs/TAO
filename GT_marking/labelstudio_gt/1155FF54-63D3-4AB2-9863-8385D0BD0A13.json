@@ -1,0 +1,1610 @@
+[
+  {
+    "timeseriesUrl": "/data/upload/9/f92001a8-2016-05-31.csv",
+    "id": 55,
+    "label": [
+      {
+        "start": "2016-05-31 09:54:09",
+        "end": "2016-05-31 10:14:09",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-31 18:23:52",
+        "end": "2016-05-31 18:33:52",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-31 14:33:59",
+        "end": "2016-05-31 14:43:58",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-31 21:03:52",
+        "end": "2016-05-31 21:13:52",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-31 09:39:09",
+        "end": "2016-05-31 09:54:09",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-31 09:19:09",
+        "end": "2016-05-31 09:39:09",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-31 12:09:03",
+        "end": "2016-05-31 12:39:03",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-31 19:03:52",
+        "end": "2016-05-31 19:33:52",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-31 18:33:52",
+        "end": "2016-05-31 19:03:52",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-31 00:09:10",
+        "end": "2016-05-31 08:49:09",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-31 08:49:09",
+        "end": "2016-05-31 09:19:09",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-31 14:43:58",
+        "end": "2016-05-31 15:58:56",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-31 17:43:51",
+        "end": "2016-05-31 18:23:52",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-31 10:19:09",
+        "end": "2016-05-31 10:49:06",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-31 19:03:52",
+        "end": "2016-05-31 23:48:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-31 10:14:09",
+        "end": "2016-05-31 10:44:08",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-31 11:49:03",
+        "end": "2016-05-31 12:04:03",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-31 12:34:04",
+        "end": "2016-05-31 12:39:03",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-31 15:08:56",
+        "end": "2016-05-31 15:53:56",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-31 17:53:53",
+        "end": "2016-05-31 18:18:52",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-31 15:58:56",
+        "end": "2016-05-31 17:42:26",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-31 13:54:00",
+        "end": "2016-05-31 14:08:59",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-31 12:44:01",
+        "end": "2016-05-31 13:54:00",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-31 14:08:59",
+        "end": "2016-05-31 14:33:59",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-31 10:49:06",
+        "end": "2016-05-31 11:44:03",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2022-08-11T21:50:35.238505Z",
+    "updated_at": "2022-08-11T21:50:35.238536Z",
+    "lead_time": 550.195
+  },
+  {
+    "timeseriesUrl": "/data/upload/9/6c89d942-2016-05-30.csv",
+    "id": 54,
+    "label": [
+      {
+        "start": "2016-05-30 10:16:31",
+        "end": "2016-05-30 10:56:33",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-30 12:11:32",
+        "end": "2016-05-30 12:26:29",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-30 00:36:32",
+        "end": "2016-05-30 00:46:32",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-30 23:02:50",
+        "end": "2016-05-30 23:11:27",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-30 11:36:32",
+        "end": "2016-05-30 11:46:32",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-30 15:21:28",
+        "end": "2016-05-30 15:56:29",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-30 20:25:56",
+        "end": "2016-05-30 21:12:35",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-30 15:16:28",
+        "end": "2016-05-30 15:21:28",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-30 00:46:32",
+        "end": "2016-05-30 09:41:31",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-30 16:46:29",
+        "end": "2016-05-30 17:21:28",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-30 17:26:29",
+        "end": "2016-05-30 19:11:28",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2016-05-30 09:46:32",
+        "end": "2016-05-30 10:16:31",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-30 11:46:32",
+        "end": "2016-05-30 12:11:32",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-30 12:31:29",
+        "end": "2016-05-30 13:46:28",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-30 18:46:28",
+        "end": "2016-05-30 19:46:27",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-30 20:14:57",
+        "end": "2016-05-30 20:25:32",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-30 21:12:35",
+        "end": "2016-05-30 21:46:27",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-30 23:31:27",
+        "end": "2016-05-30 23:36:27",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-30 21:54:43",
+        "end": "2016-05-30 22:22:01",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2016-05-30 11:46:32",
+        "end": "2016-05-30 12:11:32",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-30 19:26:28",
+        "end": "2016-05-30 19:56:28",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-30 11:26:32",
+        "end": "2016-05-30 11:36:32",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-30 20:01:28",
+        "end": "2016-05-30 20:11:28",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-30 13:51:28",
+        "end": "2016-05-30 15:11:28",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-30 16:01:29",
+        "end": "2016-05-30 16:41:28",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-30 22:25:42",
+        "end": "2016-05-30 22:59:59",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-30 23:11:27",
+        "end": "2016-05-30 23:26:27",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2022-08-11T21:41:22.103441Z",
+    "updated_at": "2022-08-11T21:41:22.103468Z",
+    "lead_time": 541.382
+  },
+  {
+    "timeseriesUrl": "/data/upload/9/f613ad10-2016-05-29.csv",
+    "id": 53,
+    "label": [
+      {
+        "start": "2016-05-29 00:04:21",
+        "end": "2016-05-29 00:24:21",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-29 17:41:34",
+        "end": "2016-05-29 17:51:33",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-29 19:46:33",
+        "end": "2016-05-29 19:56:33",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-29 10:51:35",
+        "end": "2016-05-29 11:11:35",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-29 11:46:35",
+        "end": "2016-05-29 12:21:35",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-29 16:51:34",
+        "end": "2016-05-29 17:41:34",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-29 22:16:33",
+        "end": "2016-05-29 23:41:33",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-29 11:11:35",
+        "end": "2016-05-29 11:46:35",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-29 16:36:34",
+        "end": "2016-05-29 16:46:34",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-29 00:24:21",
+        "end": "2016-05-29 10:22:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-29 10:22:44",
+        "end": "2016-05-29 10:51:35",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-29 11:46:35",
+        "end": "2016-05-29 13:51:35",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-29 17:56:33",
+        "end": "2016-05-29 18:36:34",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-29 19:26:33",
+        "end": "2016-05-29 19:46:33",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-29 17:51:33",
+        "end": "2016-05-29 18:41:33",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-29 19:21:33",
+        "end": "2016-05-29 19:46:33",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-29 20:01:33",
+        "end": "2016-05-29 22:16:33",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-29 18:41:33",
+        "end": "2016-05-29 19:16:33",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2022-08-11T21:32:17.049938Z",
+    "updated_at": "2022-08-11T21:32:17.049963Z",
+    "lead_time": 448.599
+  },
+  {
+    "timeseriesUrl": "/data/upload/9/6b77294b-2016-05-28.csv",
+    "id": 52,
+    "label": [
+      {
+        "start": "2016-05-28 11:49:44",
+        "end": "2016-05-28 12:24:45",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-28 08:54:58",
+        "end": "2016-05-28 09:14:45",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-28 10:29:44",
+        "end": "2016-05-28 10:39:44",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-28 09:49:44",
+        "end": "2016-05-28 09:59:44",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-28 14:13:21",
+        "end": "2016-05-28 18:19:37",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-28 00:02:35",
+        "end": "2016-05-28 08:49:45",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-28 14:09:45",
+        "end": "2016-05-28 19:14:37",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2016-05-28 19:54:37",
+        "end": "2016-05-28 22:49:21",
+        "instant": false,
+        "timeserieslabels": [
+          "Amusement"
+        ]
+      },
+      {
+        "start": "2016-05-28 09:19:45",
+        "end": "2016-05-28 09:44:44",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-28 10:04:44",
+        "end": "2016-05-28 10:29:44",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-28 18:54:37",
+        "end": "2016-05-28 20:29:28",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-28 21:59:24",
+        "end": "2016-05-28 22:44:22",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-28 12:24:45",
+        "end": "2016-05-28 14:04:45",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-28 10:44:44",
+        "end": "2016-05-28 11:49:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2022-08-11T16:57:51.829987Z",
+    "updated_at": "2022-08-11T16:57:51.830010Z",
+    "lead_time": 232.117
+  },
+  {
+    "timeseriesUrl": "/data/upload/9/12166e27-2016-05-27.csv",
+    "id": 51,
+    "label": [
+      {
+        "start": "2016-05-27 08:12:19",
+        "end": "2016-05-27 08:47:19",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-27 12:02:18",
+        "end": "2016-05-27 12:07:19",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-27 13:32:19",
+        "end": "2016-05-27 13:37:18",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-27 17:27:17",
+        "end": "2016-05-27 17:32:19",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-27 19:02:18",
+        "end": "2016-05-27 19:07:18",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-27 22:39:46",
+        "end": "2016-05-27 22:49:45",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-27 09:37:18",
+        "end": "2016-05-27 09:47:18",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-27 14:32:18",
+        "end": "2016-05-27 14:57:19",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-27 19:40:29",
+        "end": "2016-05-27 21:29:45",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-27 19:12:18",
+        "end": "2016-05-27 19:32:19",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-27 21:14:45",
+        "end": "2016-05-27 21:19:45",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-27 00:07:19",
+        "end": "2016-05-27 08:07:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-27 23:43:32",
+        "end": "2016-05-27 23:56:20",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-27 10:24:46",
+        "end": "2016-05-27 10:53:51",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2016-05-27 08:52:19",
+        "end": "2016-05-27 09:32:18",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-27 11:02:18",
+        "end": "2016-05-27 11:32:18",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-27 12:37:19",
+        "end": "2016-05-27 13:02:19",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-27 15:02:19",
+        "end": "2016-05-27 15:37:19",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-27 18:00:14",
+        "end": "2016-05-27 18:57:18",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-27 22:24:46",
+        "end": "2016-05-27 22:39:46",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-27 08:57:19",
+        "end": "2016-05-27 09:32:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-27 12:32:18",
+        "end": "2016-05-27 13:07:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-27 15:27:19",
+        "end": "2016-05-27 15:47:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-27 17:42:19",
+        "end": "2016-05-27 18:52:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-27 11:37:18",
+        "end": "2016-05-27 12:02:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-27 12:12:19",
+        "end": "2016-05-27 12:32:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-27 13:12:18",
+        "end": "2016-05-27 13:32:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-27 15:52:19",
+        "end": "2016-05-27 17:22:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-27 21:34:45",
+        "end": "2016-05-27 22:19:45",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-27 22:54:45",
+        "end": "2016-05-27 23:39:45",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-27 09:52:18",
+        "end": "2016-05-27 10:22:19",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-27 13:47:18",
+        "end": "2016-05-27 14:07:18",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-27 14:12:18",
+        "end": "2016-05-27 14:32:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2022-08-11T16:51:54.963950Z",
+    "updated_at": "2022-08-11T16:51:54.963978Z",
+    "lead_time": 399.652
+  },
+  {
+    "timeseriesUrl": "/data/upload/9/3c0843c9-2016-05-26.csv",
+    "id": 50,
+    "label": [
+      {
+        "start": "2016-05-26 08:12:50",
+        "end": "2016-05-26 08:22:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-26 23:22:19",
+        "end": "2016-05-26 23:32:19",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-26 00:12:51",
+        "end": "2016-05-26 00:22:51",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-26 11:12:50",
+        "end": "2016-05-26 11:17:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-26 13:07:42",
+        "end": "2016-05-26 13:12:43",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-26 15:42:27",
+        "end": "2016-05-26 15:52:23",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-26 18:37:19",
+        "end": "2016-05-26 19:02:19",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-26 08:27:50",
+        "end": "2016-05-26 08:42:50",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-26 12:17:51",
+        "end": "2016-05-26 12:37:50",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-26 19:27:18",
+        "end": "2016-05-26 20:17:18",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-26 12:07:50",
+        "end": "2016-05-26 12:17:51",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-26 08:52:50",
+        "end": "2016-05-26 09:02:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-26 20:37:18",
+        "end": "2016-05-26 20:47:18",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-26 09:02:50",
+        "end": "2016-05-26 09:12:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Exercising"
+        ]
+      },
+      {
+        "start": "2016-05-26 00:27:51",
+        "end": "2016-05-26 07:57:50",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-26 22:42:19",
+        "end": "2016-05-26 23:22:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-26 21:42:18",
+        "end": "2016-05-26 21:47:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-26 23:47:19",
+        "end": "2016-05-26 23:52:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-26 11:22:50",
+        "end": "2016-05-26 12:07:50",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2016-05-26 13:17:41",
+        "end": "2016-05-26 14:22:28",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2016-05-26 14:27:27",
+        "end": "2016-05-26 15:40:16",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-26 18:02:19",
+        "end": "2016-05-26 18:17:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-26 17:57:19",
+        "end": "2016-05-26 18:32:19",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-26 19:02:19",
+        "end": "2016-05-26 21:37:18",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-26 21:52:19",
+        "end": "2016-05-26 22:37:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-26 15:57:22",
+        "end": "2016-05-26 17:42:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-26 17:42:19",
+        "end": "2016-05-26 17:52:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-26 09:47:50",
+        "end": "2016-05-26 11:07:49",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-26 09:27:50",
+        "end": "2016-05-26 09:42:50",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-26 12:37:50",
+        "end": "2016-05-26 13:03:50",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2022-08-11T16:45:12.513657Z",
+    "updated_at": "2022-08-11T16:45:12.513686Z",
+    "lead_time": 560.859
+  },
+  {
+    "timeseriesUrl": "/data/upload/9/a0ac9a83-2016-05-25.csv",
+    "id": 49,
+    "label": [
+      {
+        "start": "2016-05-25 08:47:51",
+        "end": "2016-05-25 08:52:51",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-25 18:52:50",
+        "end": "2016-05-25 19:02:51",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-25 08:07:51",
+        "end": "2016-05-25 08:12:51",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-25 10:54:15",
+        "end": "2016-05-25 11:02:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-25 14:02:50",
+        "end": "2016-05-25 14:17:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-25 17:37:51",
+        "end": "2016-05-25 17:42:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-25 08:22:51",
+        "end": "2016-05-25 08:42:51",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-25 11:52:50",
+        "end": "2016-05-25 12:42:50",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-25 15:22:50",
+        "end": "2016-05-25 15:37:51",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-25 20:32:51",
+        "end": "2016-05-25 21:07:51",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-25 21:37:51",
+        "end": "2016-05-25 22:37:50",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-25 19:17:50",
+        "end": "2016-05-25 19:42:51",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-25 21:22:51",
+        "end": "2016-05-25 21:32:51",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2016-05-25 19:07:50",
+        "end": "2016-05-25 20:27:50",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2016-05-25 00:12:51",
+        "end": "2016-05-25 08:02:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-25 17:47:50",
+        "end": "2016-05-25 18:22:50",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2016-05-25 09:07:50",
+        "end": "2016-05-25 09:52:50",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-25 09:07:50",
+        "end": "2016-05-25 09:52:50",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-25 10:12:50",
+        "end": "2016-05-25 10:30:35",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-25 16:12:50",
+        "end": "2016-05-25 16:22:49",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-25 15:22:50",
+        "end": "2016-05-25 15:57:51",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-25 15:32:51",
+        "end": "2016-05-25 16:07:50",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-25 23:47:51",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-25 21:37:51",
+        "end": "2016-05-25 23:52:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2022-08-11T16:33:47.251405Z",
+    "updated_at": "2022-08-11T16:33:47.251431Z",
+    "lead_time": 799.418
+  },
+  {
+    "timeseriesUrl": "/data/upload/9/e35ec2d9-2016-05-24.csv",
+    "id": 48,
+    "label": [
+      {
+        "start": "2016-05-24 23:22:51",
+        "end": "2016-05-24 23:27:51",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-24 16:53:52",
+        "end": "2016-05-24 16:57:51",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-24 23:02:51",
+        "end": "2016-05-24 23:07:51",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2016-05-24 19:57:50",
+        "end": "2016-05-24 21:10:57",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-24 19:37:50",
+        "end": "2016-05-24 19:52:50",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2016-05-24 21:47:51",
+        "end": "2016-05-24 21:52:51",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2016-05-24 17:12:50",
+        "end": "2016-05-24 17:37:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Exercising"
+        ]
+      },
+      {
+        "start": "2016-05-24 23:52:51",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-24 23:52:51",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-24 23:37:51",
+        "end": "2016-05-24 23:52:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2016-05-24 15:45:12",
+        "end": "2016-05-24 16:24:03",
+        "instant": false,
+        "timeserieslabels": [
+          "InAMeeting"
+        ]
+      },
+      {
+        "start": "2016-05-24 18:52:51",
+        "end": "2016-05-24 19:02:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Commuting"
+        ]
+      },
+      {
+        "start": "2016-05-24 17:42:51",
+        "end": "2016-05-24 18:47:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-24 19:07:51",
+        "end": "2016-05-24 19:27:50",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-24 21:57:50",
+        "end": "2016-05-24 23:17:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-24 16:25:10",
+        "end": "2016-05-24 16:52:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-24 17:06:21",
+        "end": "2016-05-24 17:08:12",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2016-05-24 21:12:51",
+        "end": "2016-05-24 21:42:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2022-08-11T16:20:08.865850Z",
+    "updated_at": "2022-08-11T16:20:08.865876Z",
+    "lead_time": 1698.482
+  }
+]

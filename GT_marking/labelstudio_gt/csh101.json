@@ -1,0 +1,7216 @@
+[
+  {
+    "timeseriesUrl": "/data/upload/12/6175553e-2012-08-26.csv",
+    "id": 95,
+    "label": [
+      {
+        "start": "2012-08-26 03:37:22",
+        "end": "2012-08-26 03:42:52",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-26 07:41:36",
+        "end": "2012-08-26 07:45:39",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-26 10:29:12",
+        "end": "2012-08-26 10:32:41",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-26 10:58:46",
+        "end": "2012-08-26 11:04:34",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-26 09:22:41",
+        "end": "2012-08-26 09:38:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-26 10:33:19",
+        "end": "2012-08-26 10:37:29",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-26 07:46:00",
+        "end": "2012-08-26 07:51:01",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-26 07:51:15",
+        "end": "2012-08-26 08:01:15",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-26 08:34:55",
+        "end": "2012-08-26 09:20:36",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-26 08:04:01",
+        "end": "2012-08-26 08:34:46",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-26 10:39:28",
+        "end": "2012-08-26 10:58:28",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-26 11:04:58",
+        "end": "2012-08-26 11:59:32",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-26 03:44:58",
+        "end": "2012-08-26 07:40:10",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-26 00:33:26",
+        "end": "2012-08-26 03:34:30",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-26 10:29:12",
+        "end": "2012-08-26 10:29:12",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-26 09:38:50",
+        "end": "2012-08-26 09:38:50",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-26 12:04:26",
+        "end": "2012-08-26 12:12:47",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-26 14:41:31",
+        "end": "2012-08-26 14:44:28",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-26 16:58:14",
+        "end": "2012-08-26 17:01:59",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-26 19:51:13",
+        "end": "2012-08-26 20:02:53",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-26 22:22:44",
+        "end": "2012-08-26 22:25:15",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-26 20:04:22",
+        "end": "2012-08-26 20:05:55",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-26 22:19:01",
+        "end": "2012-08-26 22:21:33",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-26 14:49:27",
+        "end": "2012-08-26 14:57:15",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-26 15:15:35",
+        "end": "2012-08-26 15:17:39",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-26 12:15:39",
+        "end": "2012-08-26 14:39:32",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-26 14:44:28",
+        "end": "2012-08-26 14:50:00",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-26 14:59:27",
+        "end": "2012-08-26 15:14:14",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-26 15:17:40",
+        "end": "2012-08-26 16:07:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-26 17:01:59",
+        "end": "2012-08-26 17:24:54",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-26 18:41:14",
+        "end": "2012-08-26 19:49:48",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-26 20:05:55",
+        "end": "2012-08-26 22:18:05",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-26 22:27:37",
+        "end": "2012-08-26 23:57:43",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-26 16:42:59",
+        "end": "2012-08-26 16:57:08",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-26 16:42:40",
+        "end": "2012-08-26 16:42:40",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-26 18:41:14",
+        "end": "2012-08-26 18:41:14",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-26 16:07:18",
+        "end": "2012-08-26 16:07:18",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-26 17:24:54",
+        "end": "2012-08-26 17:24:54",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 77,
+    "created_at": "2022-09-14T19:12:12.713311Z",
+    "updated_at": "2022-09-14T19:12:12.713334Z",
+    "lead_time": 261.536
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/05273aba-2012-08-25.csv",
+    "id": 94,
+    "label": [
+      {
+        "start": "2012-08-25 00:19:06",
+        "end": "2012-08-25 00:22:01",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-25 05:53:56",
+        "end": "2012-08-25 06:02:22",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-25 07:13:26",
+        "end": "2012-08-25 07:16:52",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-25 10:17:54",
+        "end": "2012-08-25 10:22:53",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-25 07:30:36",
+        "end": "2012-08-25 07:45:54",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-25 06:02:22",
+        "end": "2012-08-25 06:05:45",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-25 06:05:16",
+        "end": "2012-08-25 06:28:12",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-25 06:55:06",
+        "end": "2012-08-25 07:13:31",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-25 07:47:20",
+        "end": "2012-08-25 10:17:10",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-25 06:28:41",
+        "end": "2012-08-25 06:54:40",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-25 10:24:44",
+        "end": "2012-08-25 12:02:52",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-25 00:22:24",
+        "end": "2012-08-25 05:52:53",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-25 00:04:45",
+        "end": "2012-08-25 00:19:42",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-25 07:17:27",
+        "end": "2012-08-25 07:30:00",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-25 14:06:27",
+        "end": "2012-08-25 14:11:44",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-25 15:09:25",
+        "end": "2012-08-25 15:14:10",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-25 17:45:12",
+        "end": "2012-08-25 17:49:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-25 21:56:30",
+        "end": "2012-08-25 22:05:36",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-25 23:40:02",
+        "end": "2012-08-25 23:45:04",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-25 12:50:36",
+        "end": "2012-08-25 13:16:44",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-25 20:18:33",
+        "end": "2012-08-25 20:22:11",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-25 18:03:01",
+        "end": "2012-08-25 18:18:26",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-25 13:37:33",
+        "end": "2012-08-25 13:43:17",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-25 18:18:26",
+        "end": "2012-08-25 18:21:52",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-25 20:04:45",
+        "end": "2012-08-25 20:17:50",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-25 12:04:23",
+        "end": "2012-08-25 12:46:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-25 15:15:51",
+        "end": "2012-08-25 17:44:06",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-25 20:22:12",
+        "end": "2012-08-25 21:56:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-25 13:43:53",
+        "end": "2012-08-25 14:05:38",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-25 13:34:31",
+        "end": "2012-08-25 13:37:33",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-25 15:00:58",
+        "end": "2012-08-25 15:09:25",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-25 18:23:08",
+        "end": "2012-08-25 20:04:01",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-25 22:06:11",
+        "end": "2012-08-25 23:39:26",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-25 15:00:58",
+        "end": "2012-08-25 15:00:58",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-25 14:11:44",
+        "end": "2012-08-25 14:11:44",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-25 17:54:55",
+        "end": "2012-08-25 17:57:35",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-25 13:34:31",
+        "end": "2012-08-25 13:34:31",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-25 13:16:44",
+        "end": "2012-08-25 13:16:44",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-25 17:59:53",
+        "end": "2012-08-25 18:02:35",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-25 17:50:24",
+        "end": "2012-08-25 17:52:45",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 76,
+    "created_at": "2022-09-14T19:07:46.572645Z",
+    "updated_at": "2022-09-14T19:07:46.572668Z",
+    "lead_time": 293.822
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/f9f06805-2012-08-24.csv",
+    "id": 93,
+    "label": [
+      {
+        "start": "2012-08-24 05:50:16",
+        "end": "2012-08-24 05:53:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 08:18:44",
+        "end": "2012-08-24 08:30:11",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 08:42:14",
+        "end": "2012-08-24 08:45:29",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 11:41:15",
+        "end": "2012-08-24 11:44:42",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 03:47:21",
+        "end": "2012-08-24 04:05:42",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 11:51:09",
+        "end": "2012-08-24 12:14:03",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 11:39:36",
+        "end": "2012-08-24 11:40:41",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-24 05:46:23",
+        "end": "2012-08-24 05:49:33",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-24 08:45:29",
+        "end": "2012-08-24 09:04:37",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-24 04:08:59",
+        "end": "2012-08-24 05:46:23",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-24 06:40:00",
+        "end": "2012-08-24 08:16:59",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-24 06:19:51",
+        "end": "2012-08-24 06:37:30",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-24 09:06:37",
+        "end": "2012-08-24 11:39:36",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-24 00:03:04",
+        "end": "2012-08-24 03:46:47",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-24 08:30:37",
+        "end": "2012-08-24 08:41:40",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-24 11:46:32",
+        "end": "2012-08-24 11:51:09",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-24 14:00:32",
+        "end": "2012-08-24 14:03:38",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 15:04:28",
+        "end": "2012-08-24 15:08:29",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 16:37:58",
+        "end": "2012-08-24 16:40:51",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 23:01:12",
+        "end": "2012-08-24 23:02:54",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 21:26:03",
+        "end": "2012-08-24 21:33:54",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 19:17:20",
+        "end": "2012-08-24 19:26:38",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-24 15:13:05",
+        "end": "2012-08-24 15:32:02",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-24 18:08:04",
+        "end": "2012-08-24 18:24:14",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-24 23:02:07",
+        "end": "2012-08-24 23:33:27",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-24 15:32:02",
+        "end": "2012-08-24 15:37:35",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-24 12:14:49",
+        "end": "2012-08-24 12:50:59",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-24 14:03:38",
+        "end": "2012-08-24 14:58:53",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-24 21:33:54",
+        "end": "2012-08-24 23:01:12",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-24 15:37:35",
+        "end": "2012-08-24 15:58:46",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-24 16:42:47",
+        "end": "2012-08-24 17:06:38",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-24 17:16:47",
+        "end": "2012-08-24 18:03:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-24 18:04:03",
+        "end": "2012-08-24 18:08:26",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-24 16:03:35",
+        "end": "2012-08-24 16:34:52",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-24 18:26:45",
+        "end": "2012-08-24 19:16:25",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-24 19:29:10",
+        "end": "2012-08-24 21:08:52",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-24 23:39:52",
+        "end": "2012-08-24 23:51:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-24 17:06:38",
+        "end": "2012-08-24 17:14:33",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-24 15:59:44",
+        "end": "2012-08-24 16:02:16",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-24 15:00:37",
+        "end": "2012-08-24 15:04:14",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-24 14:00:32",
+        "end": "2012-08-24 14:00:32",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-24 12:51:43",
+        "end": "2012-08-24 12:51:43",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 75,
+    "created_at": "2022-09-14T19:02:48.010509Z",
+    "updated_at": "2022-09-14T19:02:48.010533Z",
+    "lead_time": 325.749
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/f9804a79-2012-08-23.csv",
+    "id": 92,
+    "label": [
+      {
+        "start": "2012-08-23 07:02:16",
+        "end": "2012-08-23 07:08:20",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-23 08:42:34",
+        "end": "2012-08-23 08:46:53",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-23 11:08:52",
+        "end": "2012-08-23 11:11:54",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-23 12:11:02",
+        "end": "2012-08-23 12:35:23",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-23 08:57:53",
+        "end": "2012-08-23 09:24:06",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-23 11:21:50",
+        "end": "2012-08-23 11:35:39",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-23 11:05:13",
+        "end": "2012-08-23 11:07:39",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-23 07:09:32",
+        "end": "2012-08-23 07:29:35",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-23 08:11:59",
+        "end": "2012-08-23 08:41:41",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-23 07:29:35",
+        "end": "2012-08-23 08:11:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-23 00:04:17",
+        "end": "2012-08-23 06:59:54",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-23 09:25:13",
+        "end": "2012-08-23 11:04:37",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-23 11:37:28",
+        "end": "2012-08-23 12:11:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-23 11:12:29",
+        "end": "2012-08-23 11:21:50",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-23 08:48:09",
+        "end": "2012-08-23 08:56:05",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-23 19:28:53",
+        "end": "2012-08-23 19:32:13",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-23 21:49:13",
+        "end": "2012-08-23 21:51:25",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-23 23:42:27",
+        "end": "2012-08-23 23:56:19",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-23 20:26:58",
+        "end": "2012-08-23 20:29:50",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-23 23:35:13",
+        "end": "2012-08-23 23:41:39",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-23 18:00:02",
+        "end": "2012-08-23 18:08:14",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-23 14:04:52",
+        "end": "2012-08-23 15:57:33",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-23 16:02:50",
+        "end": "2012-08-23 17:00:45",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-23 18:09:35",
+        "end": "2012-08-23 18:36:59",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-23 19:03:38",
+        "end": "2012-08-23 19:24:52",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-23 13:43:40",
+        "end": "2012-08-23 14:04:11",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-23 17:34:23",
+        "end": "2012-08-23 17:53:59",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-23 17:53:59",
+        "end": "2012-08-23 18:01:15",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-23 18:38:21",
+        "end": "2012-08-23 18:59:48",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-23 19:33:38",
+        "end": "2012-08-23 20:23:43",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-23 20:30:54",
+        "end": "2012-08-23 21:44:04",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-23 21:54:08",
+        "end": "2012-08-23 23:33:47",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-23 17:00:47",
+        "end": "2012-08-23 17:17:38",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-23 13:42:01",
+        "end": "2012-08-23 13:42:01",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-23 17:32:05",
+        "end": "2012-08-23 17:32:05",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-23 17:17:38",
+        "end": "2012-08-23 17:17:38",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-23 12:36:13",
+        "end": "2012-08-23 12:36:13",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-23 15:57:27",
+        "end": "2012-08-23 16:02:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-23 21:46:44",
+        "end": "2012-08-23 21:49:13",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-23 20:23:43",
+        "end": "2012-08-23 20:26:58",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-23 19:25:25",
+        "end": "2012-08-23 19:28:37",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 74,
+    "created_at": "2022-09-14T18:57:15.782306Z",
+    "updated_at": "2022-09-14T18:57:15.782330Z",
+    "lead_time": 316.017
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/a426c3f5-2012-08-22.csv",
+    "id": 91,
+    "label": [
+      {
+        "start": "2012-08-22 00:20:11",
+        "end": "2012-08-22 00:22:49",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-22 03:21:59",
+        "end": "2012-08-22 03:25:34",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-22 07:37:17",
+        "end": "2012-08-22 07:42:32",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-22 08:50:59",
+        "end": "2012-08-22 08:55:37",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-22 10:53:00",
+        "end": "2012-08-22 11:24:29",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-22 12:03:58",
+        "end": "2012-08-22 12:08:12",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-22 00:23:08",
+        "end": "2012-08-22 00:28:19",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-22 08:59:56",
+        "end": "2012-08-22 09:18:35",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-22 09:18:35",
+        "end": "2012-08-22 09:26:41",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-22 01:27:59",
+        "end": "2012-08-22 03:22:12",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-22 03:26:27",
+        "end": "2012-08-22 07:36:06",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-22 08:44:41",
+        "end": "2012-08-22 08:49:40",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-22 08:56:57",
+        "end": "2012-08-22 08:59:57",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-22 07:45:53",
+        "end": "2012-08-22 08:43:33",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-22 09:30:09",
+        "end": "2012-08-22 10:51:03",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-22 11:27:08",
+        "end": "2012-08-22 11:54:38",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-22 00:29:08",
+        "end": "2012-08-22 01:27:01",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-22 00:02:31",
+        "end": "2012-08-22 00:12:59",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-22 12:08:12",
+        "end": "2012-08-22 12:18:33",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-22 13:50:59",
+        "end": "2012-08-22 13:50:59",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-22 12:18:33",
+        "end": "2012-08-22 12:18:33",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-22 18:12:09",
+        "end": "2012-08-22 18:12:09",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-22 17:40:25",
+        "end": "2012-08-22 17:40:25",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-22 18:38:31",
+        "end": "2012-08-22 18:41:10",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-22 15:34:05",
+        "end": "2012-08-22 15:40:19",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-22 18:42:25",
+        "end": "2012-08-22 18:46:10",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-22 21:49:09",
+        "end": "2012-08-22 22:00:17",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-22 23:42:54",
+        "end": "2012-08-22 23:53:13",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-22 18:33:19",
+        "end": "2012-08-22 18:38:31",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-22 23:35:46",
+        "end": "2012-08-22 23:37:40",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-22 23:38:17",
+        "end": "2012-08-22 23:42:24",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-22 14:22:00",
+        "end": "2012-08-22 15:32:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-22 16:58:46",
+        "end": "2012-08-22 17:37:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-22 18:46:10",
+        "end": "2012-08-22 21:47:38",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-22 13:53:34",
+        "end": "2012-08-22 14:20:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-22 15:40:47",
+        "end": "2012-08-22 16:57:29",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-22 18:18:08",
+        "end": "2012-08-22 18:32:13",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-22 22:01:11",
+        "end": "2012-08-22 23:35:46",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 73,
+    "created_at": "2022-09-14T18:51:52.495109Z",
+    "updated_at": "2022-09-14T18:51:52.495130Z",
+    "lead_time": 294.277
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/a71c7048-2012-08-20.csv",
+    "id": 89,
+    "label": [
+      {
+        "start": "2012-08-20 06:36:48",
+        "end": "2012-08-20 06:40:39",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-20 08:07:57",
+        "end": "2012-08-20 08:12:29",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-20 09:20:45",
+        "end": "2012-08-20 09:28:54",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-20 10:59:14",
+        "end": "2012-08-20 11:23:29",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-20 00:43:36",
+        "end": "2012-08-20 00:52:33",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-20 06:40:39",
+        "end": "2012-08-20 06:45:03",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-20 08:14:45",
+        "end": "2012-08-20 08:39:40",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-20 06:45:03",
+        "end": "2012-08-20 08:03:54",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-20 00:01:11",
+        "end": "2012-08-20 00:41:14",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-20 00:56:51",
+        "end": "2012-08-20 06:35:04",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-20 08:04:28",
+        "end": "2012-08-20 08:08:03",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-20 08:12:49",
+        "end": "2012-08-20 08:14:45",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-20 08:39:41",
+        "end": "2012-08-20 09:20:45",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-20 09:29:32",
+        "end": "2012-08-20 10:58:15",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-20 11:23:29",
+        "end": "2012-08-20 11:34:07",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-20 14:28:09",
+        "end": "2012-08-20 14:34:10",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-20 16:33:06",
+        "end": "2012-08-20 16:36:02",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-20 20:10:10",
+        "end": "2012-08-20 20:14:02",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-20 16:36:02",
+        "end": "2012-08-20 16:38:51",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-20 23:47:22",
+        "end": "2012-08-20 23:48:53",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-20 14:34:03",
+        "end": "2012-08-20 14:36:18",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-20 23:49:45",
+        "end": "2012-08-20 23:57:15",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-20 14:36:18",
+        "end": "2012-08-20 16:31:56",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-20 18:22:04",
+        "end": "2012-08-20 20:08:05",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-20 17:08:31",
+        "end": "2012-08-20 17:30:27",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-20 20:15:03",
+        "end": "2012-08-20 23:45:35",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-20 16:38:51",
+        "end": "2012-08-20 16:55:15",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-20 14:28:09",
+        "end": "2012-08-20 14:28:09",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-20 17:08:31",
+        "end": "2012-08-20 17:08:31",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-20 18:22:04",
+        "end": "2012-08-20 18:22:04",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-20 17:30:36",
+        "end": "2012-08-20 17:30:36",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-20 16:55:53",
+        "end": "2012-08-20 16:55:53",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-20 11:35:17",
+        "end": "2012-08-20 11:35:17",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 72,
+    "created_at": "2022-09-14T18:46:55.742668Z",
+    "updated_at": "2022-09-14T18:46:55.742697Z",
+    "lead_time": 1.947
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/01377fc5-2012-08-21.csv",
+    "id": 90,
+    "label": [
+      {
+        "start": "2012-08-21 04:03:45",
+        "end": "2012-08-21 04:08:47",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-21 07:10:34",
+        "end": "2012-08-21 07:13:51",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-21 08:31:02",
+        "end": "2012-08-21 08:33:53",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-21 11:24:15",
+        "end": "2012-08-21 11:27:10",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-21 09:09:00",
+        "end": "2012-08-21 09:33:38",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-21 07:13:27",
+        "end": "2012-08-21 07:18:37",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-21 08:34:29",
+        "end": "2012-08-21 08:51:10",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-21 07:18:37",
+        "end": "2012-08-21 08:18:10",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-21 11:27:10",
+        "end": "2012-08-21 12:56:04",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-21 04:11:00",
+        "end": "2012-08-21 07:08:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-21 00:09:44",
+        "end": "2012-08-21 04:02:10",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-21 00:00:00",
+        "end": "2012-08-21 00:09:29",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-21 08:19:39",
+        "end": "2012-08-21 08:29:51",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-21 08:51:10",
+        "end": "2012-08-21 09:08:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-21 11:24:15",
+        "end": "2012-08-21 11:24:15",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-21 09:33:38",
+        "end": "2012-08-21 09:33:38",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-21 13:27:40",
+        "end": "2012-08-21 13:37:55",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-21 15:37:10",
+        "end": "2012-08-21 15:45:01",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-21 18:16:46",
+        "end": "2012-08-21 18:19:42",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-21 21:47:37",
+        "end": "2012-08-21 21:55:29",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-21 21:57:29",
+        "end": "2012-08-21 22:12:34",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-21 23:07:42",
+        "end": "2012-08-21 23:14:06",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-21 16:14:27",
+        "end": "2012-08-21 18:16:46",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-21 18:55:39",
+        "end": "2012-08-21 21:45:30",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-21 23:14:58",
+        "end": "2012-08-21 23:36:29",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-21 13:38:58",
+        "end": "2012-08-21 14:45:54",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-21 13:04:24",
+        "end": "2012-08-21 13:26:14",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-21 15:46:24",
+        "end": "2012-08-21 16:12:59",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-21 22:15:02",
+        "end": "2012-08-21 23:04:34",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-21 23:37:32",
+        "end": "2012-08-21 23:55:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-21 15:34:08",
+        "end": "2012-08-21 15:37:10",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-21 15:34:08",
+        "end": "2012-08-21 15:34:08",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-21 18:54:57",
+        "end": "2012-08-21 18:54:57",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-21 18:19:42",
+        "end": "2012-08-21 18:19:42",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-21 14:46:06",
+        "end": "2012-08-21 14:46:06",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 71,
+    "created_at": "2022-09-14T18:46:51.701627Z",
+    "updated_at": "2022-09-14T18:46:51.701654Z",
+    "lead_time": 248.587
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/8bd0f251-2012-08-18.csv",
+    "id": 87,
+    "label": [
+      {
+        "start": "2012-08-18 06:31:41",
+        "end": "2012-08-18 06:33:58",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-18 07:37:15",
+        "end": "2012-08-18 07:53:29",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-18 08:45:11",
+        "end": "2012-08-18 09:13:35",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-18 11:45:16",
+        "end": "2012-08-18 11:57:05",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-18 00:10:00",
+        "end": "2012-08-18 00:17:44",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-18 06:34:24",
+        "end": "2012-08-18 06:37:45",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-18 06:37:45",
+        "end": "2012-08-18 07:35:55",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-18 07:53:29",
+        "end": "2012-08-18 08:35:43",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-18 11:15:05",
+        "end": "2012-08-18 11:44:43",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-18 00:17:44",
+        "end": "2012-08-18 06:30:52",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-18 08:36:32",
+        "end": "2012-08-18 08:45:11",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-18 00:02:46",
+        "end": "2012-08-18 00:08:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-18 10:21:41",
+        "end": "2012-08-18 10:21:41",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-18 11:14:38",
+        "end": "2012-08-18 11:14:38",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-18 09:13:46",
+        "end": "2012-08-18 09:13:46",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-18 10:22:41",
+        "end": "2012-08-18 10:22:41",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-18 14:06:57",
+        "end": "2012-08-18 14:12:53",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-18 18:18:51",
+        "end": "2012-08-18 18:22:44",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-18 21:16:39",
+        "end": "2012-08-18 21:21:07",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-18 23:49:33",
+        "end": "2012-08-18 23:58:54",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-18 21:45:54",
+        "end": "2012-08-18 21:49:41",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-18 23:41:48",
+        "end": "2012-08-18 23:49:33",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-18 21:49:41",
+        "end": "2012-08-18 22:06:40",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-18 14:12:53",
+        "end": "2012-08-18 14:16:44",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-18 14:25:12",
+        "end": "2012-08-18 15:39:22",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-18 16:01:27",
+        "end": "2012-08-18 16:51:11",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-18 18:22:44",
+        "end": "2012-08-18 20:39:49",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-18 11:59:56",
+        "end": "2012-08-18 14:05:28",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-18 21:39:12",
+        "end": "2012-08-18 21:44:38",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-18 22:06:40",
+        "end": "2012-08-18 23:41:48",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-18 20:40:12",
+        "end": "2012-08-18 21:16:39",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-18 21:21:07",
+        "end": "2012-08-18 21:39:12",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-18 16:51:40",
+        "end": "2012-08-18 17:11:23",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-18 15:51:20",
+        "end": "2012-08-18 15:59:55",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-18 14:25:12",
+        "end": "2012-08-18 14:25:12",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-18 15:51:20",
+        "end": "2012-08-18 15:51:20",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-18 18:18:51",
+        "end": "2012-08-18 18:18:51",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-18 14:16:44",
+        "end": "2012-08-18 14:16:44",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-18 15:44:58",
+        "end": "2012-08-18 15:44:58",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-18 17:11:23",
+        "end": "2012-08-18 17:11:23",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 70,
+    "created_at": "2022-09-11T23:22:16.046807Z",
+    "updated_at": "2022-09-11T23:22:16.046835Z",
+    "lead_time": 796.202
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/11c6a569-2012-08-17.csv",
+    "id": 86,
+    "label": [
+      {
+        "start": "2012-08-17 07:29:19",
+        "end": "2012-08-17 07:34:14",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-17 08:59:06",
+        "end": "2012-08-17 09:05:12",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-17 11:48:34",
+        "end": "2012-08-17 11:56:24",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-17 07:34:14",
+        "end": "2012-08-17 07:39:10",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-17 09:17:14",
+        "end": "2012-08-17 09:38:19",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-17 11:45:43",
+        "end": "2012-08-17 11:49:01",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-17 07:39:10",
+        "end": "2012-08-17 08:13:45",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-17 08:51:38",
+        "end": "2012-08-17 08:58:08",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-17 08:14:52",
+        "end": "2012-08-17 08:51:38",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-17 00:02:55",
+        "end": "2012-08-17 07:28:07",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-17 09:06:24",
+        "end": "2012-08-17 09:16:44",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-17 09:40:16",
+        "end": "2012-08-17 11:44:27",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-17 13:34:52",
+        "end": "2012-08-17 13:37:16",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-17 13:51:47",
+        "end": "2012-08-17 13:57:56",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-17 15:38:39",
+        "end": "2012-08-17 15:50:54",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-17 17:36:57",
+        "end": "2012-08-17 17:45:41",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-17 19:02:02",
+        "end": "2012-08-17 19:06:03",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-17 23:27:49",
+        "end": "2012-08-17 23:43:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-17 12:02:18",
+        "end": "2012-08-17 12:18:25",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-17 14:08:00",
+        "end": "2012-08-17 14:13:45",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-17 23:44:39",
+        "end": "2012-08-17 23:46:31",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-17 23:44:39",
+        "end": "2012-08-17 23:48:11",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-17 12:19:03",
+        "end": "2012-08-17 12:49:48",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-17 15:26:47",
+        "end": "2012-08-17 15:37:00",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-17 23:48:11",
+        "end": "2012-08-17 23:57:47",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-17 13:57:57",
+        "end": "2012-08-17 14:02:18",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-17 14:13:45",
+        "end": "2012-08-17 15:21:49",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-17 13:37:39",
+        "end": "2012-08-17 13:51:47",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-17 15:50:54",
+        "end": "2012-08-17 17:34:28",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-17 19:06:04",
+        "end": "2012-08-17 23:25:55",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-17 14:07:50",
+        "end": "2012-08-17 14:07:50",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-17 19:02:02",
+        "end": "2012-08-17 19:02:02",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-17 15:26:43",
+        "end": "2012-08-17 15:26:43",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-17 12:49:48",
+        "end": "2012-08-17 12:49:48",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-17 14:02:18",
+        "end": "2012-08-17 14:02:18",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-17 15:21:49",
+        "end": "2012-08-17 15:21:49",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-17 17:45:41",
+        "end": "2012-08-17 17:45:41",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 69,
+    "created_at": "2022-09-11T23:08:56.209997Z",
+    "updated_at": "2022-09-11T23:08:56.210021Z",
+    "lead_time": 396.012
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/bf4b4df9-2012-08-05.csv",
+    "id": 74,
+    "label": [
+      {
+        "start": "2012-08-05 11:24:34",
+        "end": "2012-08-05 11:39:37",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-05 11:40:19",
+        "end": "2012-08-05 11:49:37",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-05 09:55:05",
+        "end": "2012-08-05 10:04:26",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-05 08:07:20",
+        "end": "2012-08-05 08:13:56",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-05 00:48:19",
+        "end": "2012-08-05 01:05:57",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-05 00:06:23",
+        "end": "2012-08-05 00:10:41",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-05 08:34:32",
+        "end": "2012-08-05 08:38:53",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-05 10:11:11",
+        "end": "2012-08-05 10:24:37",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-05 08:13:56",
+        "end": "2012-08-05 08:33:26",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-05 08:40:43",
+        "end": "2012-08-05 09:52:59",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-05 12:00:45",
+        "end": "2012-08-05 12:46:42",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-05 01:06:52",
+        "end": "2012-08-05 08:06:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-05 00:12:16",
+        "end": "2012-08-05 00:46:32",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-05 00:03:35",
+        "end": "2012-08-05 00:05:23",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-05 10:25:58",
+        "end": "2012-08-05 11:17:33",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-05 11:50:29",
+        "end": "2012-08-05 11:59:09",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-05 13:37:10",
+        "end": "2012-08-05 13:39:01",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-05 15:50:33",
+        "end": "2012-08-05 15:56:27",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-05 18:33:46",
+        "end": "2012-08-05 18:37:36",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-05 14:31:12",
+        "end": "2012-08-05 14:35:03",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-05 22:08:05",
+        "end": "2012-08-05 22:10:19",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-05 14:36:32",
+        "end": "2012-08-05 15:49:29",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-05 18:39:14",
+        "end": "2012-08-05 22:08:05",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-05 13:40:35",
+        "end": "2012-08-05 14:29:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-05 15:58:13",
+        "end": "2012-08-05 17:26:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-05 22:10:19",
+        "end": "2012-08-05 23:55:48",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-05 13:37:10",
+        "end": "2012-08-05 13:37:10",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-05 18:33:46",
+        "end": "2012-08-05 18:33:46",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-05 17:28:25",
+        "end": "2012-08-05 17:28:25",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-05 12:46:42",
+        "end": "2012-08-05 12:46:42",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 68,
+    "created_at": "2022-09-11T23:01:39.674253Z",
+    "updated_at": "2022-09-11T23:01:39.674279Z",
+    "lead_time": 534.336
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/78172aa3-2012-08-04.csv",
+    "id": 73,
+    "label": [
+      {
+        "start": "2012-08-04 11:18:41",
+        "end": "2012-08-04 11:50:35",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-04 00:09:41",
+        "end": "2012-08-04 00:18:48",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-04 00:37:57",
+        "end": "2012-08-04 00:53:54",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-04 07:20:08",
+        "end": "2012-08-04 07:29:06",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-04 00:18:48",
+        "end": "2012-08-04 00:25:41",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-04 07:29:06",
+        "end": "2012-08-04 07:31:37",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-04 08:39:32",
+        "end": "2012-08-04 08:45:59",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-04 08:21:15",
+        "end": "2012-08-04 08:28:25",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-04 07:31:37",
+        "end": "2012-08-04 07:45:15",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-04 07:48:36",
+        "end": "2012-08-04 08:20:27",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-04 08:45:34",
+        "end": "2012-08-04 09:34:25",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-04 00:56:55",
+        "end": "2012-08-04 07:13:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-04 08:31:15",
+        "end": "2012-08-04 08:37:20",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-04 00:27:54",
+        "end": "2012-08-04 00:35:00",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-04 09:37:26",
+        "end": "2012-08-04 11:11:42",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-04 11:54:25",
+        "end": "2012-08-04 12:44:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-04 13:35:37",
+        "end": "2012-08-04 13:41:08",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-04 16:26:59",
+        "end": "2012-08-04 16:37:47",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-04 20:27:32",
+        "end": "2012-08-04 20:41:34",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-04 20:45:39",
+        "end": "2012-08-04 21:06:39",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-04 13:31:21",
+        "end": "2012-08-04 13:35:00",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-04 13:43:44",
+        "end": "2012-08-04 16:20:33",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-04 18:27:56",
+        "end": "2012-08-04 20:24:53",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-04 20:37:11",
+        "end": "2012-08-04 20:47:31",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-04 16:39:32",
+        "end": "2012-08-04 17:10:16",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-04 21:15:23",
+        "end": "2012-08-04 23:58:23",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-04 13:20:20",
+        "end": "2012-08-04 13:33:54",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-04 18:27:56",
+        "end": "2012-08-04 18:27:56",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-04 17:10:16",
+        "end": "2012-08-04 17:10:16",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-04 12:45:02",
+        "end": "2012-08-04 12:45:02",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-04 13:20:20",
+        "end": "2012-08-04 13:20:20",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 57,
+    "created_at": "2022-08-12T01:47:15.506943Z",
+    "updated_at": "2022-08-12T01:47:15.506969Z",
+    "lead_time": 240.297
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/8d35c23a-2012-08-03.csv",
+    "id": 72,
+    "label": [
+      {
+        "start": "2012-08-03 12:42:08",
+        "end": "2012-08-03 13:04:27",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-03 08:26:23",
+        "end": "2012-08-03 08:33:54",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-03 01:08:47",
+        "end": "2012-08-03 01:22:35",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-03 08:33:51",
+        "end": "2012-08-03 08:37:08",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-03 01:03:21",
+        "end": "2012-08-03 01:07:32",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-03 10:08:32",
+        "end": "2012-08-03 10:16:31",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-03 08:51:57",
+        "end": "2012-08-03 09:15:52",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-03 09:46:36",
+        "end": "2012-08-03 09:52:58",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-03 08:40:40",
+        "end": "2012-08-03 08:50:26",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-03 09:19:00",
+        "end": "2012-08-03 09:42:34",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-03 09:53:27",
+        "end": "2012-08-03 09:58:22",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-03 13:31:48",
+        "end": "2012-08-03 16:25:54",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-03 01:26:06",
+        "end": "2012-08-03 08:23:36",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-03 10:18:20",
+        "end": "2012-08-03 12:38:16",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-03 10:00:23",
+        "end": "2012-08-03 10:07:40",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-03 16:30:44",
+        "end": "2012-08-03 16:34:54",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-03 19:09:27",
+        "end": "2012-08-03 19:28:47",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-03 20:47:53",
+        "end": "2012-08-03 20:51:07",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-03 16:43:32",
+        "end": "2012-08-03 16:48:22",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-03 18:54:28",
+        "end": "2012-08-03 19:08:12",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-03 16:52:12",
+        "end": "2012-08-03 18:52:01",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-03 19:32:41",
+        "end": "2012-08-03 23:56:33",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-03 13:31:48",
+        "end": "2012-08-03 13:31:48",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-03 16:43:16",
+        "end": "2012-08-03 16:43:16",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-03 13:04:27",
+        "end": "2012-08-03 13:04:27",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-03 16:34:54",
+        "end": "2012-08-03 16:34:54",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 56,
+    "created_at": "2022-08-12T01:43:10.700011Z",
+    "updated_at": "2022-08-12T01:43:10.700035Z",
+    "lead_time": 272.105
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/cb135ccd-2012-08-02.csv",
+    "id": 71,
+    "label": [
+      {
+        "start": "2012-08-02 01:03:50",
+        "end": "2012-08-02 01:10:17",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-02 07:39:44",
+        "end": "2012-08-02 07:43:36",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-02 08:57:42",
+        "end": "2012-08-02 09:22:24",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-02 10:11:15",
+        "end": "2012-08-02 10:16:26",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-02 07:43:36",
+        "end": "2012-08-02 08:08:06",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-02 08:59:47",
+        "end": "2012-08-02 09:05:21",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-08-02 08:34:10",
+        "end": "2012-08-02 08:57:20",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-02 08:09:55",
+        "end": "2012-08-02 08:33:21",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-02 10:18:24",
+        "end": "2012-08-02 12:50:09",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-02 01:11:53",
+        "end": "2012-08-02 07:38:07",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-02 07:45:14",
+        "end": "2012-08-02 07:49:12",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-02 10:09:17",
+        "end": "2012-08-02 10:09:17",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-02 09:22:54",
+        "end": "2012-08-02 09:22:54",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-02 12:53:11",
+        "end": "2012-08-02 12:58:30",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-02 13:58:13",
+        "end": "2012-08-02 14:00:04",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-02 15:02:11",
+        "end": "2012-08-02 15:06:12",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-02 18:48:40",
+        "end": "2012-08-02 18:52:52",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-02 19:47:34",
+        "end": "2012-08-02 19:58:17",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-02 18:52:52",
+        "end": "2012-08-02 18:55:28",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-02 19:58:51",
+        "end": "2012-08-02 20:33:37",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-02 15:46:35",
+        "end": "2012-08-02 17:11:25",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-02 17:23:17",
+        "end": "2012-08-02 18:46:26",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-02 18:58:39",
+        "end": "2012-08-02 19:46:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-02 20:37:20",
+        "end": "2012-08-02 23:56:31",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-02 13:58:13",
+        "end": "2012-08-02 13:58:13",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-02 15:44:25",
+        "end": "2012-08-02 15:44:25",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-02 17:21:11",
+        "end": "2012-08-02 17:21:11",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-02 12:58:56",
+        "end": "2012-08-02 12:58:56",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-02 15:06:12",
+        "end": "2012-08-02 15:06:12",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-02 17:14:25",
+        "end": "2012-08-02 17:14:25",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 55,
+    "created_at": "2022-08-12T01:37:43.794240Z",
+    "updated_at": "2022-08-12T01:38:35.940733Z",
+    "lead_time": 395.96
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/18d93533-2012-08-01.csv",
+    "id": 70,
+    "label": [
+      {
+        "start": "2012-08-01 08:45:30",
+        "end": "2012-08-01 08:48:41",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-01 14:20:03",
+        "end": "2012-08-01 14:22:46",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-01 19:45:31",
+        "end": "2012-08-01 19:53:47",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-01 10:01:36",
+        "end": "2012-08-01 10:34:17",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-01 11:43:27",
+        "end": "2012-08-01 11:48:27",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-01 12:53:03",
+        "end": "2012-08-01 12:55:56",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-01 16:12:44",
+        "end": "2012-08-01 16:20:13",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-01 06:39:49",
+        "end": "2012-08-01 06:45:59",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-01 08:11:44",
+        "end": "2012-08-01 08:13:31",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-01 01:01:15",
+        "end": "2012-08-01 01:12:46",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-08-01 06:45:59",
+        "end": "2012-08-01 06:50:52",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-01 07:59:13",
+        "end": "2012-08-01 08:10:22",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-01 07:41:56",
+        "end": "2012-08-01 07:52:40",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-01 06:50:52",
+        "end": "2012-08-01 07:16:34",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-01 08:14:27",
+        "end": "2012-08-01 08:43:26",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-08-01 07:17:50",
+        "end": "2012-08-01 07:39:35",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-01 01:15:18",
+        "end": "2012-08-01 06:37:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-01 07:52:28",
+        "end": "2012-08-01 07:59:13",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-01 00:01:03",
+        "end": "2012-08-01 00:59:50",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-01 08:48:35",
+        "end": "2012-08-01 09:58:50",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-01 10:36:54",
+        "end": "2012-08-01 11:39:27",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-01 21:19:25",
+        "end": "2012-08-01 21:28:37",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-01 14:23:17",
+        "end": "2012-08-01 14:58:13",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-01 16:20:14",
+        "end": "2012-08-01 17:11:50",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-01 19:17:23",
+        "end": "2012-08-01 19:45:30",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-01 20:05:29",
+        "end": "2012-08-01 21:09:06",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-08-01 21:13:08",
+        "end": "2012-08-01 21:18:08",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-08-01 11:51:04",
+        "end": "2012-08-01 12:02:28",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-01 12:22:14",
+        "end": "2012-08-01 12:44:54",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-01 15:56:18",
+        "end": "2012-08-01 16:11:40",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-01 18:43:23",
+        "end": "2012-08-01 18:56:39",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-01 19:02:50",
+        "end": "2012-08-01 19:15:46",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-01 21:31:24",
+        "end": "2012-08-01 23:12:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-08-01 12:46:54",
+        "end": "2012-08-01 12:52:32",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-01 19:55:12",
+        "end": "2012-08-01 20:00:32",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-08-01 14:20:03",
+        "end": "2012-08-01 14:20:03",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-01 15:55:54",
+        "end": "2012-08-01 15:55:54",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-01 18:31:34",
+        "end": "2012-08-01 18:31:34",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-01 18:37:11",
+        "end": "2012-08-01 18:37:11",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-08-01 17:15:11",
+        "end": "2012-08-01 17:15:11",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-01 14:58:13",
+        "end": "2012-08-01 14:58:13",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-01 12:55:56",
+        "end": "2012-08-01 12:55:56",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-01 12:04:45",
+        "end": "2012-08-01 12:04:45",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-01 20:00:45",
+        "end": "2012-08-01 20:05:29",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-08-01 21:09:06",
+        "end": "2012-08-01 21:13:33",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 54,
+    "created_at": "2022-08-12T01:31:54.094629Z",
+    "updated_at": "2022-08-12T01:31:54.094658Z",
+    "lead_time": 746.812
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/2235a685-2012-07-31.csv",
+    "id": 69,
+    "label": [
+      {
+        "start": "2012-07-31 01:38:43",
+        "end": "2012-07-31 01:47:34",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-31 08:36:27",
+        "end": "2012-07-31 08:42:08",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-31 09:13:41",
+        "end": "2012-07-31 09:16:30",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-31 10:46:03",
+        "end": "2012-07-31 10:49:29",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-31 08:40:30",
+        "end": "2012-07-31 08:44:30",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-31 09:59:53",
+        "end": "2012-07-31 10:16:18",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-31 09:41:31",
+        "end": "2012-07-31 09:47:34",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-31 08:44:32",
+        "end": "2012-07-31 09:11:29",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-31 01:49:00",
+        "end": "2012-07-31 08:35:28",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-31 00:00:56",
+        "end": "2012-07-31 01:37:44",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-31 10:52:27",
+        "end": "2012-07-31 12:24:59",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-31 13:08:33",
+        "end": "2012-07-31 13:51:06",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-31 18:42:24",
+        "end": "2012-07-31 23:56:49",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-31 13:02:52",
+        "end": "2012-07-31 13:08:28",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-07-31 13:02:52",
+        "end": "2012-07-31 13:02:52",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-31 18:39:25",
+        "end": "2012-07-31 18:39:25",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-31 17:22:53",
+        "end": "2012-07-31 17:22:53",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-31 12:50:45",
+        "end": "2012-07-31 12:50:45",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-31 13:53:10",
+        "end": "2012-07-31 17:21:06",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-31 15:56:05",
+        "end": "2012-07-31 16:04:22",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-31 12:25:29",
+        "end": "2012-07-31 12:48:32",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-31 18:39:25",
+        "end": "2012-07-31 18:42:24",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-31 18:39:25",
+        "end": "2012-07-31 18:39:25",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 53,
+    "created_at": "2022-08-12T01:15:29.142687Z",
+    "updated_at": "2022-08-12T01:19:23.570002Z",
+    "lead_time": 364.255
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/0ae35438-2012-07-29.csv",
+    "id": 67,
+    "label": [
+      {
+        "start": "2012-07-29 00:26:53",
+        "end": "2012-07-29 00:53:56",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-29 06:45:02",
+        "end": "2012-07-29 06:53:25",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-29 06:56:47",
+        "end": "2012-07-29 07:10:36",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-29 07:10:37",
+        "end": "2012-07-29 08:29:11",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-29 00:00:57",
+        "end": "2012-07-29 00:26:53",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-29 00:57:55",
+        "end": "2012-07-29 06:44:51",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-29 06:53:48",
+        "end": "2012-07-29 06:56:57",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-29 08:33:34",
+        "end": "2012-07-29 09:17:06",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-29 11:44:51",
+        "end": "2012-07-29 11:50:17",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-29 14:23:13",
+        "end": "2012-07-29 14:39:59",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-29 10:09:35",
+        "end": "2012-07-29 10:18:15",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-29 12:41:04",
+        "end": "2012-07-29 12:44:28",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-29 16:58:31",
+        "end": "2012-07-29 17:02:43",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-29 20:59:05",
+        "end": "2012-07-29 21:02:14",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-29 23:28:44",
+        "end": "2012-07-29 23:45:40",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-29 14:39:59",
+        "end": "2012-07-29 14:43:25",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-29 21:52:02",
+        "end": "2012-07-29 21:54:10",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-29 08:38:23",
+        "end": "2012-07-29 08:44:18",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-29 08:29:11",
+        "end": "2012-07-29 08:33:13",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-07-29 10:22:48",
+        "end": "2012-07-29 11:41:48",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-29 11:56:36",
+        "end": "2012-07-29 12:21:48",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-29 13:02:23",
+        "end": "2012-07-29 14:23:13",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-29 14:43:25",
+        "end": "2012-07-29 15:59:08",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-29 12:24:32",
+        "end": "2012-07-29 12:55:47",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-29 16:45:48",
+        "end": "2012-07-29 17:22:20",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-29 18:50:49",
+        "end": "2012-07-29 20:59:05",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-29 21:54:19",
+        "end": "2012-07-29 23:27:09",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-29 16:01:02",
+        "end": "2012-07-29 16:13:13",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-07-29 10:09:35",
+        "end": "2012-07-29 10:09:35",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-29 16:44:45",
+        "end": "2012-07-29 16:44:45",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-29 18:49:15",
+        "end": "2012-07-29 18:49:15",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-29 09:18:27",
+        "end": "2012-07-29 09:18:27",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-29 16:13:23",
+        "end": "2012-07-29 16:13:23",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-29 17:22:20",
+        "end": "2012-07-29 17:22:20",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 51,
+    "created_at": "2022-08-12T00:51:34.951343Z",
+    "updated_at": "2022-08-12T01:11:54.432166Z",
+    "lead_time": 260.131
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/050c440b-2012-07-30.csv",
+    "id": 68,
+    "label": [
+      {
+        "start": "2012-07-30 02:37:11",
+        "end": "2012-07-30 02:44:25",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-30 07:45:12",
+        "end": "2012-07-30 07:50:20",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-30 07:50:20",
+        "end": "2012-07-30 07:55:11",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-30 07:55:11",
+        "end": "2012-07-30 08:18:31",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-30 09:02:12",
+        "end": "2012-07-30 09:11:50",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-30 08:19:54",
+        "end": "2012-07-30 09:01:12",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-30 02:44:25",
+        "end": "2012-07-30 07:43:56",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-30 00:06:03",
+        "end": "2012-07-30 02:36:41",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-30 09:12:30",
+        "end": "2012-07-30 09:15:57",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-30 11:18:28",
+        "end": "2012-07-30 11:54:56",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-30 13:09:16",
+        "end": "2012-07-30 13:13:34",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-30 17:21:44",
+        "end": "2012-07-30 17:24:36",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-30 20:36:57",
+        "end": "2012-07-30 20:41:15",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-30 23:40:03",
+        "end": "2012-07-30 23:43:52",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-30 09:23:15",
+        "end": "2012-07-30 09:33:09",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-30 11:15:09",
+        "end": "2012-07-30 11:18:28",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-07-30 12:00:50",
+        "end": "2012-07-30 13:07:24",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-30 16:07:02",
+        "end": "2012-07-30 16:44:56",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-30 19:11:57",
+        "end": "2012-07-30 20:30:23",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-30 09:35:22",
+        "end": "2012-07-30 11:12:25",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-30 11:56:14",
+        "end": "2012-07-30 12:01:22",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-30 18:45:58",
+        "end": "2012-07-30 19:09:27",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-30 20:30:24",
+        "end": "2012-07-30 23:55:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-30 16:07:02",
+        "end": "2012-07-30 16:07:02",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-30 18:45:03",
+        "end": "2012-07-30 18:45:03",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-30 17:27:21",
+        "end": "2012-07-30 17:27:21",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-30 13:14:41",
+        "end": "2012-07-30 13:14:41",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 52,
+    "created_at": "2022-08-12T00:53:09.582826Z",
+    "updated_at": "2022-08-12T01:11:38.080713Z",
+    "lead_time": 221.154
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/d19a9016-2012-07-27.csv",
+    "id": 66,
+    "label": [
+      {
+        "start": "2012-07-27 00:12:53",
+        "end": "2012-07-27 00:24:41",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-27 07:23:57",
+        "end": "2012-07-27 07:31:36",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-27 09:19:29",
+        "end": "2012-07-27 09:46:50",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-27 07:31:36",
+        "end": "2012-07-27 07:35:05",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-27 08:49:35",
+        "end": "2012-07-27 09:18:57",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-27 07:35:07",
+        "end": "2012-07-27 08:40:46",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-27 00:27:36",
+        "end": "2012-07-27 07:22:58",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-27 08:41:46",
+        "end": "2012-07-27 08:49:08",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-27 11:39:05",
+        "end": "2012-07-27 11:43:05",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-27 13:08:45",
+        "end": "2012-07-27 13:12:03",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-27 15:23:10",
+        "end": "2012-07-27 15:30:14",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-27 18:07:52",
+        "end": "2012-07-27 18:10:27",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-27 19:13:39",
+        "end": "2012-07-27 19:15:59",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-27 19:21:10",
+        "end": "2012-07-27 19:36:13",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-27 19:36:13",
+        "end": "2012-07-27 20:08:41",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-07-27 11:43:05",
+        "end": "2012-07-27 11:50:49",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-07-27 09:20:06",
+        "end": "2012-07-27 09:24:38",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-07-27 13:46:39",
+        "end": "2012-07-27 17:54:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-27 11:54:12",
+        "end": "2012-07-27 12:49:30",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-27 13:12:03",
+        "end": "2012-07-27 13:45:53",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-27 17:55:34",
+        "end": "2012-07-27 19:12:25",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-27 20:13:09",
+        "end": "2012-07-27 23:53:39",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-27 11:39:05",
+        "end": "2012-07-27 11:39:05",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-27 13:08:45",
+        "end": "2012-07-27 13:08:45",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-27 09:48:56",
+        "end": "2012-07-27 09:48:56",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-27 12:50:39",
+        "end": "2012-07-27 12:50:39",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-27 15:30:14",
+        "end": "2012-07-27 15:30:14",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 50,
+    "created_at": "2022-08-12T00:50:13.960798Z",
+    "updated_at": "2022-08-12T01:06:25.145013Z",
+    "lead_time": 358.56399999999996
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/c9917852-2012-07-24.csv",
+    "id": 63,
+    "label": [
+      {
+        "start": "2012-07-24 04:08:12",
+        "end": "2012-07-24 04:13:07",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-24 07:02:36",
+        "end": "2012-07-24 07:08:04",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-24 07:08:04",
+        "end": "2012-07-24 07:11:36",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-24 07:11:36",
+        "end": "2012-07-24 07:41:13",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-24 07:42:13",
+        "end": "2012-07-24 08:13:40",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-24 07:02:26",
+        "end": "2012-07-24 07:02:26",
+        "instant": true,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-24 04:13:34",
+        "end": "2012-07-24 07:02:53",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-24 00:00:30",
+        "end": "2012-07-24 04:06:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-24 08:16:24",
+        "end": "2012-07-24 08:20:53",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-24 09:56:57",
+        "end": "2012-07-24 10:36:05",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-24 11:40:49",
+        "end": "2012-07-24 11:46:14",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-24 14:38:20",
+        "end": "2012-07-24 14:43:07",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-24 15:13:00",
+        "end": "2012-07-24 15:21:26",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-24 17:16:29",
+        "end": "2012-07-24 17:22:40",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-24 22:46:55",
+        "end": "2012-07-24 22:53:29",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-24 11:45:20",
+        "end": "2012-07-24 11:48:43",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-24 15:21:26",
+        "end": "2012-07-24 15:26:29",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-24 22:52:24",
+        "end": "2012-07-24 23:00:32",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-24 08:25:50",
+        "end": "2012-07-24 08:45:08",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-24 09:50:58",
+        "end": "2012-07-24 09:57:23",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-07-24 08:46:28",
+        "end": "2012-07-24 09:47:58",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-24 10:40:56",
+        "end": "2012-07-24 11:38:31",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-24 12:12:50",
+        "end": "2012-07-24 12:56:04",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-24 18:55:35",
+        "end": "2012-07-24 20:08:46",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-24 12:04:03",
+        "end": "2012-07-24 12:10:57",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-24 14:43:08",
+        "end": "2012-07-24 17:19:16",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-24 20:13:52",
+        "end": "2012-07-24 23:54:18",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-24 12:04:03",
+        "end": "2012-07-24 12:04:03",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-24 14:38:20",
+        "end": "2012-07-24 14:38:20",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-24 18:54:37",
+        "end": "2012-07-24 18:54:37",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-24 11:48:43",
+        "end": "2012-07-24 11:48:43",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-24 12:59:14",
+        "end": "2012-07-24 12:59:14",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-24 17:22:40",
+        "end": "2012-07-24 17:22:40",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 47,
+    "created_at": "2022-08-12T00:39:52.389025Z",
+    "updated_at": "2022-08-12T01:03:03.755468Z",
+    "lead_time": 234.469
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/ca61957c-2012-07-23.csv",
+    "id": 62,
+    "label": [
+      {
+        "start": "2012-07-23 02:42:18",
+        "end": "2012-07-23 02:46:19",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-23 08:24:35",
+        "end": "2012-07-23 08:28:34",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-23 09:35:29",
+        "end": "2012-07-23 09:38:48",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-23 08:28:34",
+        "end": "2012-07-23 08:32:20",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-23 09:51:24",
+        "end": "2012-07-23 10:07:15",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-23 00:09:52",
+        "end": "2012-07-23 02:41:26",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-23 02:48:04",
+        "end": "2012-07-23 08:02:21",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-23 09:39:15",
+        "end": "2012-07-23 09:50:58",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-23 08:32:19",
+        "end": "2012-07-23 09:34:36",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-23 10:55:03",
+        "end": "2012-07-23 11:24:32",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-23 12:58:05",
+        "end": "2012-07-23 13:06:55",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-23 14:15:32",
+        "end": "2012-07-23 14:28:47",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-23 16:07:38",
+        "end": "2012-07-23 16:16:36",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-23 23:37:36",
+        "end": "2012-07-23 23:57:39",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-23 16:42:48",
+        "end": "2012-07-23 16:50:58",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-23 18:48:07",
+        "end": "2012-07-23 18:54:43",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-23 18:54:43",
+        "end": "2012-07-23 19:03:03",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-07-23 10:48:05",
+        "end": "2012-07-23 10:53:55",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-07-23 19:28:36",
+        "end": "2012-07-23 20:16:20",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-23 10:14:25",
+        "end": "2012-07-23 10:45:13",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-23 11:27:34",
+        "end": "2012-07-23 11:55:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-23 12:33:12",
+        "end": "2012-07-23 12:57:09",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-23 13:11:08",
+        "end": "2012-07-23 14:13:27",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-23 14:29:49",
+        "end": "2012-07-23 14:52:45",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-23 16:50:58",
+        "end": "2012-07-23 18:35:25",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-23 16:14:34",
+        "end": "2012-07-23 16:38:38",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-23 19:08:38",
+        "end": "2012-07-23 19:24:42",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-23 20:21:24",
+        "end": "2012-07-23 23:31:16",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-23 11:03:30",
+        "end": "2012-07-23 11:08:33",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-07-23 11:03:30",
+        "end": "2012-07-23 11:09:16",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-07-23 12:32:09",
+        "end": "2012-07-23 12:32:09",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-23 16:07:38",
+        "end": "2012-07-23 16:07:38",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-23 11:58:29",
+        "end": "2012-07-23 11:58:29",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-23 14:52:59",
+        "end": "2012-07-23 14:52:59",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 46,
+    "created_at": "2022-08-12T00:38:30.959431Z",
+    "updated_at": "2022-08-12T01:00:24.632989Z",
+    "lead_time": 290.102
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/c7fcc590-2012-07-21.csv",
+    "id": 60,
+    "label": [
+      {
+        "start": "2012-07-21 06:08:32",
+        "end": "2012-07-21 06:11:38",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-21 10:03:24",
+        "end": "2012-07-21 10:10:38",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-21 07:45:00",
+        "end": "2012-07-21 07:53:17",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-21 00:44:32",
+        "end": "2012-07-21 00:48:37",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-21 06:53:12",
+        "end": "2012-07-21 06:56:38",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-21 10:22:22",
+        "end": "2012-07-21 10:45:18",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-21 06:16:01",
+        "end": "2012-07-21 06:53:10",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-21 07:15:56",
+        "end": "2012-07-21 07:45:00",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-21 00:05:47",
+        "end": "2012-07-21 00:44:32",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-21 06:58:29",
+        "end": "2012-07-21 07:14:38",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-21 09:16:01",
+        "end": "2012-07-21 10:03:24",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-21 06:08:32",
+        "end": "2012-07-21 06:08:32",
+        "instant": true,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-21 10:10:38",
+        "end": "2012-07-21 10:21:51",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-21 10:50:31",
+        "end": "2012-07-21 12:31:52",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-21 12:32:16",
+        "end": "2012-07-21 12:52:47",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-21 16:54:23",
+        "end": "2012-07-21 16:57:00",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-21 19:20:18",
+        "end": "2012-07-21 19:27:22",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-21 21:54:55",
+        "end": "2012-07-21 21:58:00",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-21 23:42:33",
+        "end": "2012-07-21 23:58:52",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-21 17:02:19",
+        "end": "2012-07-21 17:20:08",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-21 21:57:19",
+        "end": "2012-07-21 22:01:30",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-21 13:52:33",
+        "end": "2012-07-21 14:00:17",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-21 14:01:18",
+        "end": "2012-07-21 14:08:05",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-07-21 14:39:34",
+        "end": "2012-07-21 15:41:13",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-21 23:53:26",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-21 13:04:18",
+        "end": "2012-07-21 13:47:10",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-21 14:24:06",
+        "end": "2012-07-21 14:37:42",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-21 15:47:03",
+        "end": "2012-07-21 16:49:54",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-21 17:23:48",
+        "end": "2012-07-21 17:37:30",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-21 17:48:08",
+        "end": "2012-07-21 23:40:12",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-21 14:23:00",
+        "end": "2012-07-21 14:23:00",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-21 17:45:21",
+        "end": "2012-07-21 17:45:21",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-21 12:56:04",
+        "end": "2012-07-21 13:02:43",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-21 14:08:05",
+        "end": "2012-07-21 14:08:05",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-21 15:35:43",
+        "end": "2012-07-21 15:35:43",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-21 16:49:54",
+        "end": "2012-07-21 16:54:23",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-21 17:38:31",
+        "end": "2012-07-21 17:38:31",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 44,
+    "created_at": "2022-08-12T00:28:59.410685Z",
+    "updated_at": "2022-08-12T00:56:47.094122Z",
+    "lead_time": 294.705
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/122fef1a-2012-07-26.csv",
+    "id": 65,
+    "label": [
+      {
+        "start": "2012-07-26 08:54:48",
+        "end": "2012-07-26 09:01:15",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-26 10:20:51",
+        "end": "2012-07-26 10:27:37",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-26 11:33:35",
+        "end": "2012-07-26 11:58:42",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-26 16:14:01",
+        "end": "2012-07-26 16:19:14",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-26 20:14:15",
+        "end": "2012-07-26 20:19:10",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-26 13:41:11",
+        "end": "2012-07-26 13:41:11",
+        "instant": true,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-26 07:23:05",
+        "end": "2012-07-26 07:31:27",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-26 16:19:14",
+        "end": "2012-07-26 16:24:38",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-26 09:05:36",
+        "end": "2012-07-26 09:17:53",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-26 07:32:11",
+        "end": "2012-07-26 07:34:07",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-26 07:34:07",
+        "end": "2012-07-26 08:06:14",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-26 08:06:14",
+        "end": "2012-07-26 08:46:14",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-26 13:45:43",
+        "end": "2012-07-26 16:06:13",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-26 20:23:54",
+        "end": "2012-07-26 23:29:12",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-26 00:04:45",
+        "end": "2012-07-26 07:23:05",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-26 09:22:30",
+        "end": "2012-07-26 11:33:34",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-26 12:05:59",
+        "end": "2012-07-26 12:44:35",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-26 16:20:21",
+        "end": "2012-07-26 17:43:07",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-26 19:14:46",
+        "end": "2012-07-26 20:11:41",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-26 13:41:11",
+        "end": "2012-07-26 13:41:11",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-26 19:14:46",
+        "end": "2012-07-26 19:14:46",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-26 17:43:07",
+        "end": "2012-07-26 17:43:07",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-26 12:45:07",
+        "end": "2012-07-26 12:45:07",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-26 08:51:41",
+        "end": "2012-07-26 09:05:36",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 49,
+    "created_at": "2022-08-12T00:47:14.361328Z",
+    "updated_at": "2022-08-12T00:47:14.361363Z",
+    "lead_time": 216.92
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/6b5f5a5a-2012-07-25.csv",
+    "id": 64,
+    "label": [
+      {
+        "start": "2012-07-25 07:59:20",
+        "end": "2012-07-25 08:09:11",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-25 10:19:29",
+        "end": "2012-07-25 10:35:09",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-25 06:58:38",
+        "end": "2012-07-25 07:07:14",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-25 00:39:14",
+        "end": "2012-07-25 00:42:32",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-25 12:53:19",
+        "end": "2012-07-25 12:57:14",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-25 12:31:57",
+        "end": "2012-07-25 12:36:04",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-25 16:34:45",
+        "end": "2012-07-25 16:46:08",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-25 22:28:40",
+        "end": "2012-07-25 22:35:15",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-25 23:50:37",
+        "end": "2012-07-25 23:55:32",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-25 10:11:07",
+        "end": "2012-07-25 10:17:46",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-25 07:05:47",
+        "end": "2012-07-25 07:10:20",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-25 22:35:15",
+        "end": "2012-07-25 22:38:49",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-25 08:36:27",
+        "end": "2012-07-25 08:49:52",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-25 07:10:20",
+        "end": "2012-07-25 07:26:39",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-25 07:50:39",
+        "end": "2012-07-25 08:25:31",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-25 07:30:39",
+        "end": "2012-07-25 07:49:19",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-25 19:43:46",
+        "end": "2012-07-25 21:48:52",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-25 00:49:53",
+        "end": "2012-07-25 06:53:09",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-25 08:56:51",
+        "end": "2012-07-25 10:07:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-25 15:08:52",
+        "end": "2012-07-25 16:26:11",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-25 16:48:37",
+        "end": "2012-07-25 17:07:16",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-25 18:57:19",
+        "end": "2012-07-25 19:43:20",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-25 21:57:01",
+        "end": "2012-07-25 23:50:37",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-25 10:37:08",
+        "end": "2012-07-25 10:48:57",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-07-25 12:39:23",
+        "end": "2012-07-25 12:49:40",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-07-25 12:31:57",
+        "end": "2012-07-25 12:31:57",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-25 15:06:48",
+        "end": "2012-07-25 15:06:48",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-25 18:56:03",
+        "end": "2012-07-25 18:56:03",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-25 10:48:57",
+        "end": "2012-07-25 10:48:57",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-25 12:57:14",
+        "end": "2012-07-25 12:57:14",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-25 17:08:42",
+        "end": "2012-07-25 17:08:42",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 48,
+    "created_at": "2022-08-12T00:43:34.409797Z",
+    "updated_at": "2022-08-12T00:43:34.409822Z",
+    "lead_time": 219.903
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/735186aa-2012-07-22.csv",
+    "id": 61,
+    "label": [
+      {
+        "start": "2012-07-22 03:15:03",
+        "end": "2012-07-22 03:20:35",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-22 08:20:08",
+        "end": "2012-07-22 08:32:01",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-22 10:23:16",
+        "end": "2012-07-22 11:18:34",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-22 15:20:17",
+        "end": "2012-07-22 15:24:17",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-22 17:23:08",
+        "end": "2012-07-22 17:31:21",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-22 21:06:39",
+        "end": "2012-07-22 21:13:15",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-22 06:30:31",
+        "end": "2012-07-22 06:39:09",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-22 23:49:59",
+        "end": "2012-07-22 23:57:28",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-22 10:29:58",
+        "end": "2012-07-22 10:34:23",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-22 06:34:42",
+        "end": "2012-07-22 06:37:52",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-22 08:35:36",
+        "end": "2012-07-22 08:51:34",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-22 12:30:01",
+        "end": "2012-07-22 12:47:47",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-22 21:11:57",
+        "end": "2012-07-22 21:20:46",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-22 10:14:29",
+        "end": "2012-07-22 10:22:23",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-07-22 06:41:36",
+        "end": "2012-07-22 08:18:35",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-22 10:29:58",
+        "end": "2012-07-22 10:50:29",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-22 11:27:50",
+        "end": "2012-07-22 12:06:13",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-22 12:47:47",
+        "end": "2012-07-22 13:36:43",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-22 15:36:18",
+        "end": "2012-07-22 17:23:08",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-22 19:01:18",
+        "end": "2012-07-22 20:49:00",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-22 00:04:17",
+        "end": "2012-07-22 06:27:23",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-22 08:57:54",
+        "end": "2012-07-22 10:12:37",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-22 11:18:34",
+        "end": "2012-07-22 11:27:50",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-22 12:09:14",
+        "end": "2012-07-22 12:21:15",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-22 20:49:07",
+        "end": "2012-07-22 21:00:48",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-22 21:24:36",
+        "end": "2012-07-22 23:46:15",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-22 11:06:01",
+        "end": "2012-07-22 11:14:41",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-07-22 12:27:57",
+        "end": "2012-07-22 12:27:57",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-22 15:35:26",
+        "end": "2012-07-22 15:35:26",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-22 18:59:48",
+        "end": "2012-07-22 18:59:48",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-22 17:31:21",
+        "end": "2012-07-22 17:31:21",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-22 15:24:17",
+        "end": "2012-07-22 15:24:17",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-22 12:21:52",
+        "end": "2012-07-22 12:21:52",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 45,
+    "created_at": "2022-08-12T00:33:23.461548Z",
+    "updated_at": "2022-08-12T00:33:23.461575Z",
+    "lead_time": 261.28
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/a5ce8080-2012-07-20.csv",
+    "id": 59,
+    "label": [
+      {
+        "start": "2012-07-20 10:50:54",
+        "end": "2012-07-20 11:10:09",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-20 14:40:32",
+        "end": "2012-07-20 14:43:32",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-20 17:26:20",
+        "end": "2012-07-20 17:43:55",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-20 21:00:51",
+        "end": "2012-07-20 21:09:25",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-20 11:55:07",
+        "end": "2012-07-20 12:05:37",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-20 17:14:12",
+        "end": "2012-07-20 17:25:10",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-20 14:59:29",
+        "end": "2012-07-20 15:03:32",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-20 21:10:07",
+        "end": "2012-07-20 21:18:16",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-20 12:36:58",
+        "end": "2012-07-20 13:05:09",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-20 15:04:49",
+        "end": "2012-07-20 17:13:28",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-20 21:18:16",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-20 21:24:32",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-20 21:18:16",
+        "end": "2012-07-20 23:24:34",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-20 12:14:04",
+        "end": "2012-07-20 12:35:30",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-20 14:44:35",
+        "end": "2012-07-20 14:58:01",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-20 17:43:55",
+        "end": "2012-07-20 18:00:52",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-20 19:24:19",
+        "end": "2012-07-20 20:59:41",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-20 11:50:04",
+        "end": "2012-07-20 11:55:07",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-07-20 12:06:58",
+        "end": "2012-07-20 12:14:04",
+        "instant": false,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-20 18:02:13",
+        "end": "2012-07-20 18:02:13",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-20 13:05:09",
+        "end": "2012-07-20 13:05:09",
+        "instant": true,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-20 12:03:58",
+        "end": "2012-07-20 12:06:58",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2022-08-12T00:27:10.741724Z",
+    "updated_at": "2022-08-12T00:27:10.741763Z",
+    "lead_time": 175.548
+  },
+  {
+    "timeseriesUrl": "/data/upload/12/f61f0700-2012-07-28.csv",
+    "id": 58,
+    "label": [
+      {
+        "start": "2012-07-28 08:49:24",
+        "end": "2012-07-28 08:55:32",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-28 11:00:11",
+        "end": "2012-07-28 11:42:53",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-28 15:31:15",
+        "end": "2012-07-28 16:32:40",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-28 21:24:46",
+        "end": "2012-07-28 21:53:48",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-28 22:37:55",
+        "end": "2012-07-28 22:44:39",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-28 12:36:59",
+        "end": "2012-07-28 12:44:33",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-28 05:53:31",
+        "end": "2012-07-28 06:03:51",
+        "instant": false,
+        "timeserieslabels": [
+          "UsingBathroom"
+        ]
+      },
+      {
+        "start": "2012-07-28 00:13:22",
+        "end": "2012-07-28 00:18:40",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-28 22:41:02",
+        "end": "2012-07-28 22:53:09",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-28 07:36:24",
+        "end": "2012-07-28 08:46:04",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-28 08:46:04",
+        "end": "2012-07-28 08:52:14",
+        "instant": false,
+        "timeserieslabels": [
+          "HouseWork"
+        ]
+      },
+      {
+        "start": "2012-07-28 06:08:45",
+        "end": "2012-07-28 07:24:29",
+        "instant": false,
+        "timeserieslabels": [
+          "OfficeWork"
+        ]
+      },
+      {
+        "start": "2012-07-28 14:00:37",
+        "end": "2012-07-28 14:45:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-28 12:45:12",
+        "end": "2012-07-28 13:23:52",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-28 19:00:32",
+        "end": "2012-07-28 20:14:21",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-28 23:56:22",
+        "end": "0NaN-NaN-NaN NaN:NaN:NaN",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-28 00:31:47",
+        "end": "2012-07-28 05:53:31",
+        "instant": false,
+        "timeserieslabels": [
+          "Sleeping"
+        ]
+      },
+      {
+        "start": "2012-07-28 07:23:35",
+        "end": "2012-07-28 07:36:16",
+        "instant": false,
+        "timeserieslabels": [
+          "PreparingMeal"
+        ]
+      },
+      {
+        "start": "2012-07-28 08:55:30",
+        "end": "2012-07-28 11:00:11",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-28 11:43:11",
+        "end": "2012-07-28 12:02:03",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-28 12:15:50",
+        "end": "2012-07-28 12:34:40",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-28 13:24:06",
+        "end": "2012-07-28 13:51:23",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-28 16:33:55",
+        "end": "2012-07-28 17:24:02",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-28 20:46:11",
+        "end": "2012-07-28 21:24:15",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-28 21:54:13",
+        "end": "2012-07-28 22:35:13",
+        "instant": false,
+        "timeserieslabels": [
+          "Relaxing"
+        ]
+      },
+      {
+        "start": "2012-07-28 15:08:46",
+        "end": "2012-07-28 15:28:23",
+        "instant": false,
+        "timeserieslabels": [
+          "PhoneCall"
+        ]
+      },
+      {
+        "start": "2012-07-28 12:04:02",
+        "end": "2012-07-28 12:12:58",
+        "instant": false,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-28 13:52:01",
+        "end": "2012-07-28 14:00:50",
+        "instant": false,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-28 18:56:15",
+        "end": "2012-07-28 18:56:15",
+        "instant": true,
+        "timeserieslabels": [
+          "ComingIn"
+        ]
+      },
+      {
+        "start": "2012-07-28 15:17:40",
+        "end": "2012-07-28 15:21:52",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-28 13:49:42",
+        "end": "2012-07-28 13:52:01",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-28 12:34:40",
+        "end": "2012-07-28 12:42:01",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-28 11:59:44",
+        "end": "2012-07-28 12:04:02",
+        "instant": false,
+        "timeserieslabels": [
+          "GoingOut"
+        ]
+      },
+      {
+        "start": "2012-07-28 06:03:44",
+        "end": "2012-07-28 06:07:39",
+        "instant": false,
+        "timeserieslabels": [
+          "HavingMeal"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 42,
+    "created_at": "2022-08-12T00:23:27.043886Z",
+    "updated_at": "2022-08-12T00:23:27.043928Z",
+    "lead_time": 446.745
+  }
+]

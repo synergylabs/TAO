@@ -1,0 +1,4 @@
+start_time,end_time,context
+00:00,07:30,Sleeping
+08:00,09:00,Commuting
+08:50,09:00,HavingMeal

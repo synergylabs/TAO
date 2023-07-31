@@ -1,0 +1,6 @@
+start_time,end_time,context
+12:00,12:05,Exercising
+11:50,11:55,OnAPhoneCall
+12:15,13:00,Relaxing
+19:23,21:00,Relaxing
+17:17,17:30,Exercising

@@ -1,0 +1,29 @@
+<View>
+    <!-- Control tag for region labels -->
+    <TimeSeriesLabels name="label" toName="activityData">
+
+    <Label alias="1" value="Amusement" background="#00FF00"/>
+    <Label alias="2" value="Commuting" background="#D3F261"/>
+    <Label alias="3" value="Exercising" background="#389E0D"/>
+    <Label alias="4" value="GoingOut" background="#0FF0FF"/>
+    <Label alias="a" value="HavingMeal" background="#096DD9"/>
+    <Label value="HouseWork" background="#000000"/>
+    <Label value="InAMeeting" background="#389E0D"/>
+    <Label value="OfficeWork" background="#f94af1"/>
+    <Label value="PhoneCall" background="#FFA39E"/>
+    <Label value="PreparingMeal" background="#D4380D"/>
+    <Label value="Relaxing" background="#00AAAA"/>
+    <Label value="Sleeping" background="#AD8B00"/>
+    <Label value="UsingBathroom" background="#FF0000"/>
+    <Label value="ComingIn" background="#AD8BFF"/>
+    <Label value="Inactivity" background="#FFFFFF"/>
+
+  </TimeSeriesLabels>
+
+    <!-- Object tag for time series data source -->
+    <TimeSeries name="activityData" valueType="url" value="$timeseriesUrl" sep="," timeColumn="datetime" timeFormat="%Y-%m-%d %H:%M:%S" timeDisplayFormat="%Y-%m-%d %H:%M" overviewChannels="Sitting">
+
+
+
+  </TimeSeries>
+</View>

@@ -1,0 +1,5 @@
+start_time,end_time,context
+14:10,14:40,Exercising
+14:50,15:30,Relaxing
+16:20,16:40,HouseWork
+16:50,17:00,OfficeWork

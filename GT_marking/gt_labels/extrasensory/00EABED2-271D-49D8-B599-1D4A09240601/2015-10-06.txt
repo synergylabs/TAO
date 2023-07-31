@@ -1,0 +1,12 @@
+start_time,end_time,context
+07:30,08:30,UsingBathroom
+08:30,09:00,Commuting
+09:00,10:30,OfficeWork
+10:30,11:00,Commuting
+11:00,11:30,HavingMeal
+11:30,11:50,Commuting
+11:50,13:40,OfficeWork
+13:40,14:30,Commuting
+14:30,15:30,Relaxing
+15:30,20:00,InAMeeting
+20:00,20:30,Commuting

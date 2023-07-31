@@ -1,0 +1,5 @@
+start_time,end_time,context
+00:00,00:39,Relaxing
+07:10,08:25,OfficeWork
+12:34,12:53,PhoneCall
+21:53,23:54,Amusement

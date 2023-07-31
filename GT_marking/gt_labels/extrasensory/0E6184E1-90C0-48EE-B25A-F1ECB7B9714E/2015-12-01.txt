@@ -1,0 +1,17 @@
+start_time,end_time,context
+00:00,06:10,Sleeping
+06:10,06:15,UsingBathroom
+06:10,07:00,Commuting
+07:00,10:00,Amusement
+07:00,09:30,HouseWork
+09:50,10:10,HavingMeal
+10:30,12:30,Relaxing
+12:30,14:00,Commuting
+14:00,18:30,OfficeWork
+18:30,19:00,Commuting
+19:00,20:00,InAMeeting
+20:00,21:30,Commuting
+20:00,21:30,Amusement
+21:20,21:30,UsingBathroom
+22:20,22:30,Relaxing
+22:30,23:59,Sleeping

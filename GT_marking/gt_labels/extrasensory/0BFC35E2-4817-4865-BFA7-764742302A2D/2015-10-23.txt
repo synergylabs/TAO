@@ -1,0 +1,8 @@
+start_time,end_time,context
+09:30,10:00,Exercising
+10:00,10:30,Relaxing
+11:00,12:00,OfficeWork
+12:40,12:50,OfficeWork
+14:05,14:20,Exercising
+14:05,14:20,Commuting
+20:30,20:45,Commuting
