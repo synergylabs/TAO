@@ -35,7 +35,22 @@ ground truth (on average within 1.1%), as compared to the baseline approach (on 
 BibTeX Reference:
 
 ```
-@inproceedings{10.1145/
+@article{10.1145/3610896,
+author = {Boovaraghavan, Sudershan and Patidar, Prasoon and Agarwal, Yuvraj},
+title = {TAO: Context Detection from Daily Activity Patterns Using Temporal Analysis and Ontology},
+year = {2023},
+issue_date = {September 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {7},
+number = {3},
+url = {https://doi.org/10.1145/3610896},
+doi = {10.1145/3610896},
+journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+month = {sep},
+articleno = {87},
+numpages = {32},
+keywords = {ontology, deep Learning, activity recognition, Behavioral context recognition}
 }
 ```
 
@@ -106,8 +121,9 @@ response_dict = json.loads(response.text)
 
 
 
-## References:
+[//]: # (## References:)
 
 
 ## Contact:
+For more information please contact sudershan@cmu.edu 
 
