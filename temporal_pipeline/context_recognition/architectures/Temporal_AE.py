@@ -240,8 +240,12 @@ class TAE(nn.Module):
         """
         model_dir = f'{self.config.cache_dir}/{self.config.experiment}/models'
         try:
-            self.encoder = torch.load(f'{model_dir}/Temporal_AE_Encoder_{self.input_size}_{self.embedding_size}.pt')
-            self.decoder = torch.load(f'{model_dir}/Temporal_AE_Decoder_{self.input_size}_{self.embedding_size}.pt')
+            if self.config.device=='cpu':
+                self.encoder = torch.load(f'{model_dir}/Temporal_AE_Encoder_{self.input_size}_{self.embedding_size}.pt', map_location=torch.device('cpu'))
+                self.decoder = torch.load(f'{model_dir}/Temporal_AE_Decoder_{self.input_size}_{self.embedding_size}.pt', map_location=torch.device('cpu'))
+            else:
+                self.encoder = torch.load(f'{model_dir}/Temporal_AE_Encoder_{self.input_size}_{self.embedding_size}.pt')
+                self.decoder = torch.load(f'{model_dir}/Temporal_AE_Decoder_{self.input_size}_{self.embedding_size}.pt')
             return True
         except Exception as e:
             if self.logger:

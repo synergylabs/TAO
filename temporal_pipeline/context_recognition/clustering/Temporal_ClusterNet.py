@@ -163,8 +163,16 @@ class Temporal_ClusterNet:
         model_dir = f'{self.config.cache_dir}/{self.config.experiment}'
         try:
             # self.tae = torch.load(f'{model_dir}/ClusterNet_TAE_{self.input_size}_{self.embedding_size}.pt')
-            self.model.load_state_dict(
-                torch.load(f'{model_dir}/ClusterNet_{self.input_size}_{self.embedding_size}_{self.model.n_clusters}.pth'))
+            if self.config.device == "cpu":
+                self.model.load_state_dict(
+                    torch.load(
+                        f'{model_dir}/ClusterNet_{self.input_size}_{self.embedding_size}_{self.model.n_clusters}.pth',
+                        map_location=torch.device("cpu")))
+            else:
+                self.model.load_state_dict(
+                    torch.load(
+                        f'{model_dir}/ClusterNet_{self.input_size}_{self.embedding_size}_{self.model.n_clusters}.pth'))
+
             # self.optimizer_clu = torch.optim.SGD(
             #     self.model.parameters(), lr=self.config.lr_cluster, momentum=self.config.momentum
             # )

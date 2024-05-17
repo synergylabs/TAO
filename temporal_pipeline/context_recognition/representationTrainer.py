@@ -9,7 +9,7 @@ from torchvision import datasets, transforms
 import numpy as np
 from sklearn.model_selection import train_test_split
 import sys
-sys.path.append('../')
+sys.path.append('../training/')
 # from context_recognition.temporal_clustering.autoenc_cluster.architectures import FC_Encoder, FC_Decoder, CNN_1D_Encoder, CNN_1D_Decoder
 from context_recognition.dataloaders import activityDataset
 

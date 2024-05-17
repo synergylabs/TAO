@@ -19,7 +19,7 @@ import numpy as np
 # custom libraries
 import pandas as pd
 
-from utils import time_diff, get_config_from_json
+from utils import get_config_from_json
 import context_recognition
 from wellness.stress_predictors.fsm_stress_pipeline import get_stress_score
 

@@ -34,13 +34,12 @@ from context_recognition.contextPredictor import contextPredictor
 from context_recognition.dataloaders import load_data_parser
 from context_recognition import fetch_prediction_requests
 
+app = Flask(__name__)
 
-# app = Flask(__name__)
 
-
-# @app.route("/")
-# def hello_world():
-#     return "<p>Hello, World!</p>"
+@app.route("/")
+def hello_world():
+    return "<p>Hello, World!</p>"
 
 
 def init_context_predictor(config, base_config='context_configs/default.json', logger=None):
@@ -59,7 +58,7 @@ def init_context_predictor(config, base_config='context_configs/default.json', l
     run_config.update(config)
     if 'input_size' not in run_config.keys():
         run_config['input_size'] = int(run_config['lag_parameter'] / run_config['merge_mins'])
-        run_config['input_size'] = run_config['input_size'] * len(run_config['activity_labels'])
+        run_config['input_size'] = run_config['input_size'] * len(run_config['onto_activity_labels'])
     run_config['data_sample'] = np.zeros(run_config['input_size'])
     run_config = namedtuple('run_config', run_config.keys())(*run_config.values())
 
@@ -72,10 +71,25 @@ def init_context_predictor(config, base_config='context_configs/default.json', l
     return context_predictor, run_config
 
 
-# @app.route('/predict', methods=['GET'])
-# def process_request():
-#     ts = request.args.get('timestamp')
-#     activities = request.args.get('activities')
+@app.route('/predict', methods=['GET'])
+def process_request():
+    ts = request.args.get('timestamp')
+    activities = request.args.get('activities')
+    request_dict = {
+        'timestamp': int(ts),
+        'activities': activities.split(',')
+    }
+    context_label, activity_inputs = context_predictor.process_request(request_dict)
+
+    response_dict = {'timestamp': ts,
+                     'context': context_label,
+                     'activity_input': activity_inputs}
+    return response_dict
+
+
+# def process_request(context_predictor, ts, activities):
+#     # ts = request.args.get('timestamp')
+#     # activities = request.args.get('activities')
 #     request_dict = {
 #         'timestamp': ts,
 #         'activities': activities.split(',')
@@ -84,18 +98,6 @@ def init_context_predictor(config, base_config='context_configs/default.json', l
 #
 #     response_dict = {ts: context_label}
 #     return response_dict
-
-def process_request(context_predictor, ts, activities):
-    # ts = request.args.get('timestamp')
-    # activities = request.args.get('activities')
-    request_dict = {
-        'timestamp': ts,
-        'activities': activities.split(',')
-    }
-    context_label = context_predictor.process_request(request_dict)
-
-    response_dict = {ts: context_label}
-    return response_dict
 
 
 def initialize_logger(log_dir):
@@ -123,12 +125,13 @@ def initialize_logger(log_dir):
 
 if __name__ == '__main__':
 
-    run_mode = 'multiple'
+    run_mode = 'single'
 
     if run_mode == 'multiple':
         # from train_configs.jul22_configs import get_configs
         # from train_configs.jul26_custom_configs import get_configs
-        from train_configs.jul24_incremental_configs import get_configs
+        from test_configs.testing_sep182023 import get_configs
+
         # from train_configs.jul28_ontoconv_config import get_configs
         # prediction_parser = 'prediction_vector'
         prediction_parser = 'ontoconv_prediction'
@@ -182,13 +185,20 @@ if __name__ == '__main__':
                     f.write(f"{rconfig['experiment']},{str(traceback.format_exc())}\n")
 
     elif run_mode == 'single':
+        # data and model config for prediction
+
         # put data and model config for predictor
-        dconfig = {'dataset': 'tsu', 'base_config': 'context_configs/tsu.json',
-                   'lag_parameter': 0.5, 'merge_mins': 0.05, 'max_time_interval_in_mins': 1}
-        mconfig = {'model_re': 'FCN', 'stacked_input': False, 'input_size': 414}
+        # dconfig = {'dataset': 'casas', 'base_config': 'context_configs/casas.json',
+        #            'lag_parameter': 5, 'merge_mins': 1, 'max_time_interval_in_mins': 30, 'input_size': 105,
+        #            'cnet_n_clusters': 17}
+        dconfig = {'dataset': 'extrasensory', 'base_config': 'context_configs/extrasensory.json',
+         'lag_parameter': 5, 'merge_mins': 1, 'max_time_interval_in_mins': 30, 'input_size': 145,
+         'cnet_n_clusters': 25}
+
+        mconfig = {'model_re': 'TAE', 'stacked_input': False}
 
         # get global config
-        from train_configs.jul22_configs import global_config
+        from test_configs.testing_sep182023 import global_config
 
         # Initialize the logger
         log_dir = 'cache/logs/prediction'
@@ -201,60 +211,61 @@ if __name__ == '__main__':
         new_config = deepcopy(global_config)
         new_config.update(dconfig)
         new_config.update(mconfig)
-        new_config['device'] = 'cuda:0'
+        new_config['device'] = 'cpu'
         new_config['experiment'] = experiment_name
         base_config = new_config['base_config']
 
         # Initialize predictor
+
         context_predictor, run_config = init_context_predictor(new_config, base_config, logger)
 
-        # app.run('0.0.0.0', port=8080, debug=True)
+        app.run('0.0.0.0', port=8080, debug=True)
 
         # get requests based on dataset
-        prediction_parser = 'prediction'
-        get_requests_func = load_data_parser(new_config['dataset'], prediction_parser, logger)
-        context_requests_dict = fetch_prediction_requests(run_config, prediction_parser, logger)
-        sys.exit(0)
-        context_responses_dict = dict()
-        logger.info(f"Got context requests dict with {len(context_requests_dict.keys())} unique ids")
-        for id in context_requests_dict.keys():
-            if prediction_parser == 'prediction':
-                context_responses_id = []
-                df_requests = context_requests_dict[id]
-                logger.info(f"parsing request for id: {id} with {df_requests.shape[0]} timestamp values")
-                for row_idx, row in df_requests.iterrows():
-                    timestamp, activities = row['timestamp'], row['activities']
-                    try:
-                        row_context_response = process_request(context_predictor, timestamp, activities)
-                        context_responses_id.append([timestamp, activities, row_context_response[timestamp]])
-                    except:
-                        logger.info(f"Error for {int(timestamp)}, {activities}")
-                context_responses_dict[id] = pd.DataFrame(context_responses_id,
-                                                          columns=['timestamp', 'activities', 'context'])
-                logger.info("Empty context cache to process new user")
-                context_predictor.empty_buffer()
-            else:  # prediction parser is prediction_vector
-                context_responses_id = []
-                df_requests = context_requests_dict[id]
-                logger.info(f"parsing request for id: {id} with {df_requests.shape[0]} context vectors")
-                for row_idx, row in df_requests.iterrows():
-                    start_timestamp, end_timestamp, ctx_vector = row['start_timestamp'], row['end_timestamp'], row[
-                        'ctx_vector']
-                    try:
-                        row_context_response = context_predictor.predict(ctx_vector)
-                        context_responses_id.append([start_timestamp, end_timestamp, row_context_response])
-                    except KeyboardInterrupt:
-                        sys.exit(1)
-                    except:
-                        logger.info(f"Error for {int(start_timestamp)}, {int(end_timestamp)}, {str(ctx_vector)}")
-                context_responses_dict[id] = pd.DataFrame(context_responses_id,
-                                                          columns=['start_timestamp', 'end_timestamp', 'context'])
-                # logger.info("Empty context cache to process new user")
-                # context_predictor.empty_buffer()
-
-        time_str = datetime.now().strftime("%Y%m%d")
-        context_responses_filepath = f"{run_config.cache_dir}/{run_config.experiment}/context_responses_{time_str}.pb"
-        pickle.dump(context_responses_dict, open(context_responses_filepath, 'wb'))
+        # prediction_parser = 'ontoconv_prediction'
+        # get_requests_func = load_data_parser(new_config['dataset'], prediction_parser, logger)
+        # context_requests_dict = fetch_prediction_requests(run_config, prediction_parser, logger)
+        # sys.exit(0)
+        # context_responses_dict = dict()
+        # logger.info(f"Got context requests dict with {len(context_requests_dict.keys())} unique ids")
+        # for id in context_requests_dict.keys():
+        #     if prediction_parser == 'prediction':
+        #         context_responses_id = []
+        #         df_requests = context_requests_dict[id]
+        #         logger.info(f"parsing request for id: {id} with {df_requests.shape[0]} timestamp values")
+        #         for row_idx, row in df_requests.iterrows():
+        #             timestamp, activities = row['timestamp'], row['activities']
+        #             try:
+        #                 row_context_response = process_request(context_predictor, timestamp, activities)
+        #                 context_responses_id.append([timestamp, activities, row_context_response[timestamp]])
+        #             except:
+        #                 logger.info(f"Error for {int(timestamp)}, {activities}")
+        #         context_responses_dict[id] = pd.DataFrame(context_responses_id,
+        #                                                   columns=['timestamp', 'activities', 'context'])
+        #         logger.info("Empty context cache to process new user")
+        #         context_predictor.empty_buffer()
+        #     else:  # prediction parser is prediction_vector
+        #         context_responses_id = []
+        #         df_requests = context_requests_dict[id]
+        #         logger.info(f"parsing request for id: {id} with {df_requests.shape[0]} context vectors")
+        #         for row_idx, row in df_requests.iterrows():
+        #             start_timestamp, end_timestamp, ctx_vector = row['start_timestamp'], row['end_timestamp'], row[
+        #                 'ctx_vector']
+        #             try:
+        #                 row_context_response = context_predictor.predict(ctx_vector)
+        #                 context_responses_id.append([start_timestamp, end_timestamp, row_context_response])
+        #             except KeyboardInterrupt:
+        #                 sys.exit(1)
+        #             except:
+        #                 logger.info(f"Error for {int(start_timestamp)}, {int(end_timestamp)}, {str(ctx_vector)}")
+        #         context_responses_dict[id] = pd.DataFrame(context_responses_id,
+        #                                                   columns=['start_timestamp', 'end_timestamp', 'context'])
+        #         # logger.info("Empty context cache to process new user")
+        #         # context_predictor.empty_buffer()
+        #
+        # time_str = datetime.now().strftime("%Y%m%d")
+        # context_responses_filepath = f"{run_config.cache_dir}/{run_config.experiment}/context_responses_{time_str}.pb"
+        # pickle.dump(context_responses_dict, open(context_responses_filepath, 'wb'))
 
     elif run_mode == 'testing':
         ...

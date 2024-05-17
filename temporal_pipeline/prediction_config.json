@@ -1,0 +1,14 @@
+{
+  "device": "cpu",
+  "models_dir": "artifacts",
+  "parse_style": "combined",
+  "sliding_parameter": 1,
+  "model_configs": { // Models trained for lag_window and stack_window combination for (5, 1), (10, 1), (30, 3), and (60, 6)
+        "lag_window": 5,
+        "stack_window": 1,
+        "max_time_interval": 30
+  },
+  "ontology_labels_csv": "artifacts/ontology_labels.csv",
+  "log_dir": "cache/logs/testing_sep182023",
+  "model_cluster": "DCN"
+}

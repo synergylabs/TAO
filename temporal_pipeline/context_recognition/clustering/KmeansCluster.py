@@ -4,8 +4,11 @@ Main class for clustering using kmeans
 import torch.cuda
 from sklearn.cluster import MiniBatchKMeans
 from sklearn.metrics import silhouette_score,davies_bouldin_score, calinski_harabasz_score
-from cuml.cluster import KMeans as cuKmeans
-from cuml.metrics.cluster.silhouette_score import cython_silhouette_samples as cu_silhouette_samples
+# if cuml is present, import following packages
+
+if torch.cuda.is_available():
+    from cuml.cluster import KMeans as cuKmeans
+    from cuml.metrics.cluster.silhouette_score import cython_silhouette_samples as cu_silhouette_samples
 
 import numpy as np
 import joblib

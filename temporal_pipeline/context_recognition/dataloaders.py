@@ -9,7 +9,7 @@ import pandas as pd
 from utils import time_diff, get_activity_vector
 from datetime import datetime
 
-from context_recognition.dataparsers import direct_parser, onto_conv_parser, ontoconv_prediction, combined_parser, incremental_parser
+from context_recognition.dataparsers import direct_parser, onto_conv_parser, ontoconv_prediction, combined_parser, incremental_parser, prediction_parser
 
 pd.set_option('mode.chained_assignment', None)
 
@@ -34,8 +34,8 @@ def load_data_parser(dataset, parse_style, logger):
     #     parser_func = wellness_parser
     elif parse_style == 'incremental':
         parser_func = incremental_parser
-    # elif parse_style == 'prediction':
-    #     parser_func = prediction_parser
+    elif parse_style == 'prediction':
+        parser_func = prediction_parser
     # elif parse_style == 'prediction_vector':
     #     parser_func = prediction_vector_parser
     elif parse_style == 'ontoconv_prediction':

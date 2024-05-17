@@ -12,6 +12,8 @@ scikit-learn
 jstyleson
 kneed
 hdbscan
+chardet
+hdbscan
 # conda create -n context_sensing_2 -c rapidsai -c nvidia -c conda-forge cuml=22.06 cudf=22.06 python=3.9 cudatoolkit=11.6
 # conda install pytorch torchvision torchaudio cudatoolkit=11.6 -c pytorch -c conda-forge
 

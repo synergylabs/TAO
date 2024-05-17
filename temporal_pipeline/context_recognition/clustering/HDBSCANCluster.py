@@ -1,11 +1,15 @@
+import torch.cuda
 from hdbscan import HDBSCAN
-from cuml.cluster import HDBSCAN as cuHDBSCAN
+if torch.cuda.is_available():
+    from cuml.cluster import HDBSCAN as cuHDBSCAN
 
 from sklearn.metrics import silhouette_score
-from cuml.metrics.cluster.silhouette_score import cython_silhouette_score as cu_silhouette_score
+if torch.cuda.is_available():
+    from cuml.metrics.cluster.silhouette_score import cython_silhouette_score as cu_silhouette_score
 
 from sklearn.neighbors import NearestNeighbors
-from cuml.neighbors import NearestNeighbors as cuNearestNeighbours
+if torch.cuda.is_available():
+    from cuml.neighbors import NearestNeighbors as cuNearestNeighbours
 
 from kneed import KneeLocator
 import numpy as np

@@ -1,7 +1,8 @@
 import torch.nn as nn
 import torch
 from sklearn.cluster import AgglomerativeClustering
-from cuml.cluster import AgglomerativeClustering as cuAgglomerativeClustering
+if torch.cuda.is_available():
+    from cuml.cluster import AgglomerativeClustering as cuAgglomerativeClustering
 from torch.nn import functional as F
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -185,8 +186,12 @@ class DeepClusteringNetwork:
         model_dir = f'{self.config.cache_dir}/{self.config.experiment}/models'
         try:
             # self.tae = torch.load(f'{model_dir}/ClusterNet_TAE_{self.input_size}_{self.embedding_size}.pt')
-            self.model.load_state_dict(
-                torch.load(f'{model_dir}/DCN_{self.input_size}_{self.embedding_size}_{self.model.n_clusters}.pth'))
+            if self.config.device=='cpu':
+                self.model.load_state_dict(
+                torch.load(f'{model_dir}/DCN_{self.input_size}_{self.embedding_size}_{self.model.n_clusters}.pth',map_location=torch.device('cpu')))
+            else:
+                self.model.load_state_dict(
+                    torch.load(f'{model_dir}/DCN_{self.input_size}_{self.embedding_size}_{self.model.n_clusters}.pth'))
             # self.optimizer_clu = torch.optim.SGD(
             #     self.model.parameters(), lr=self.config.lr_cluster, momentum=self.config.momentum
             # )
