@@ -117,6 +117,10 @@ for i in range(40):
 response_dict = json.loads(response.text)
 ```
 
+### 3. Link to pre-trained models.
+
+https://tao-context-sensing.s3.us-east-2.amazonaws.com/artifacts.zip
+
 [//]: # (## Directory structure:)
 
 

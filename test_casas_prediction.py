@@ -5,7 +5,7 @@ import numpy as np
 import sys
 
 port = 8080
-request_url = '0.0.0.0'
+request_url = 'edusense-compute-5.andrew.cmu.edu'
 
 print("Testing service on port:", port)
 st_times = int(time.time())
