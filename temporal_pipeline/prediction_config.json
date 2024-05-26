@@ -5,6 +5,7 @@
   "sliding_parameter": 1,
   "model_configs": { // Models trained for lag_window and stack_window combination for (5, 1), (10, 1), (30, 3), and (60, 6)
         "lag_window": 5,
+        "wellness_lag_window": 60,
         "stack_window": 1,
         "max_time_interval": 30
   },

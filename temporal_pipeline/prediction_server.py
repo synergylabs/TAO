@@ -4,10 +4,6 @@ Author: Prasoon Patidar
 Created At: Jul 22, 2022
 '''
 
-'''
-This is main flask service to run context predictions based on configs
-'''
-
 # core libraries
 import sys
 import os
@@ -34,6 +30,8 @@ from utils import time_diff, get_config_from_json
 from context_recognition.contextPredictor import contextPredictor
 from context_recognition.dataloaders import load_data_parser
 from context_recognition import fetch_prediction_requests
+from wellness.wellnessPredictor import wellnessPredictor
+from init_server_components import init_extrasensory_predictor, init_casas_predictor, init_wellness_predictor, initialize_logger
 
 # from test_configs.testing_sep182023 import global_config
 app = Flask(__name__)
@@ -42,35 +40,6 @@ app = Flask(__name__)
 @app.route("/")
 def hello_world():
     return "<p>Hello, World!</p>"
-
-
-def init_context_predictor(config, base_config='context_configs/default.json', logger=None):
-    '''
-    This function loads the models and setup server for context prediction
-    :param config: Main config to setup server
-    :param base_config: Default file with complete set of config requirements
-    :return: server init status: success/failure
-    '''
-
-    # Load configuration and requested modelsx
-
-    # Get config dict from default and config parameters
-
-    run_config = get_config_from_json(base_config)
-    run_config.update(config)
-    if 'input_size' not in run_config.keys():
-        run_config['input_size'] = int(run_config['lag_parameter'] / run_config['merge_mins'])
-        run_config['input_size'] = run_config['input_size'] * len(run_config['onto_activity_labels'])
-    run_config['data_sample'] = np.zeros(run_config['input_size'])
-    run_config = namedtuple('run_config', run_config.keys())(*run_config.values())
-
-    if not os.path.exists(run_config.cache_dir):
-        os.makedirs(run_config.cache_dir)
-
-    # Initialize context predictor
-    context_predictor = contextPredictor(run_config, logger)
-
-    return context_predictor, run_config
 
 
 @app.route('/extrasensory', methods=['GET'])
@@ -106,87 +75,21 @@ def process_casas_request():
                      'dataset': 'casas'}
     return response_dict
 
+@app.route('/wellness/stress',methods=['GET'])
+def process_stress_request():
+    ts = request.args.get('timestamp')
+    contexts = request.args.get('contexts')
+    request_dict = {
+        'timestamp': int(ts),
+        'contexts': contexts.split(',')
+    }
+    stress_score, context_inputs = wellness_predictor.process_request(request_dict)
 
-def initialize_logger(log_dir):
-    logger_master = logging.getLogger('context_prediction')
-    logger_master.setLevel(logging.DEBUG)
-    ## Add core logger handler
-    if not os.path.exists(log_dir):
-        os.makedirs(log_dir)
-    core_formatter = logging.Formatter(
-        '%(asctime)s | %(name)s | %(levelname)s | %(message)s')
-    core_logging_handler = WatchedFileHandler(f"{log_dir}/prediction.log")
-    core_logging_handler.setFormatter(core_formatter)
-    logger_master.addHandler(core_logging_handler)
-
-    ## Add stdout logger handler
-    console_formatter = logging.Formatter(
-        '%(asctime)s | %(module)s | %(levelname)s | %(message)s')
-    console_log = logging.StreamHandler()
-    console_log.setLevel(logging.DEBUG)
-    console_log.setFormatter(console_formatter)
-    logger_master.addHandler(console_log)
-    logger = logging.LoggerAdapter(logger_master, {})
-    return logger
-
-
-def init_extrasensory_predictor(global_config, cluster_counts, input_sizes, logger):
-    lag_parameter = global_config["model_configs"]["lag_window"]
-    dconfig = {'dataset': 'extrasensory',
-               'base_config': 'context_configs/extrasensory.json',
-               'lag_parameter': lag_parameter,
-               'merge_mins': global_config["model_configs"]["stack_window"],
-               'max_time_interval_in_mins': global_config["model_configs"]["max_time_interval"],
-               'input_size': input_sizes['extrasensory'][str(lag_parameter)],
-               'cnet_n_clusters': cluster_counts['extrasensory'][str(lag_parameter)]}
-
-    mconfig = {'model_re': 'TAE', 'stacked_input': False}
-
-    # create config for predictor
-
-    experiment_name = f"{dconfig['dataset']}_{dconfig['lag_parameter']}_"
-    experiment_name += f"{dconfig['merge_mins']}_{mconfig['model_re']}"
-    new_config = deepcopy(global_config)
-    new_config.update(dconfig)
-    new_config.update(mconfig)
-    new_config['device'] = 'cpu'
-    new_config['experiment'] = experiment_name
-    new_config['cache_dir'] = new_config['models_dir']
-    base_config = new_config['base_config']
-
-    # Initialize predictor
-    context_predictor, run_config = init_context_predictor(new_config, base_config, logger)
-
-    return context_predictor, run_config
-
-
-def init_casas_predictor(global_config, cluster_counts, input_sizes, logger):
-    lag_parameter = global_config["model_configs"]["lag_window"]
-    dconfig = {'dataset': 'casas',
-               'base_config': 'context_configs/casas.json',
-               'lag_parameter': lag_parameter,
-               'merge_mins': global_config["model_configs"]["stack_window"],
-               'max_time_interval_in_mins': global_config["model_configs"]["max_time_interval"],
-               'input_size': input_sizes['casas'][str(lag_parameter)],
-               'cnet_n_clusters': cluster_counts['casas'][str(lag_parameter)]}
-    mconfig = {'model_re': 'TAE', 'stacked_input': False}
-
-    # create config for predictor
-
-    experiment_name = f"{dconfig['dataset']}_{dconfig['lag_parameter']}_"
-    experiment_name += f"{dconfig['merge_mins']}_{mconfig['model_re']}"
-    new_config = deepcopy(global_config)
-    new_config.update(dconfig)
-    new_config.update(mconfig)
-    new_config['device'] = 'cpu'
-    new_config['experiment'] = experiment_name
-    new_config['cache_dir'] = new_config['models_dir']
-    base_config = new_config['base_config']
-
-    # Initialize predictor
-    context_predictor, run_config = init_context_predictor(new_config, base_config, logger)
-
-    return context_predictor, run_config
+    response_dict = {'timestamp': ts,
+                     'stress_score': stress_score,
+                     'context_input': context_inputs,
+                     'method': 'fsm'}
+    return response_dict
 
 
 if __name__ == '__main__':
@@ -230,5 +133,7 @@ if __name__ == '__main__':
     extra_context_predictor, extra_run_config = init_extrasensory_predictor(global_config, cluster_counts, input_sizes,
                                                                             logger)
     casas_context_predictor, casas_run_config = init_casas_predictor(global_config, cluster_counts, input_sizes, logger)
+
+    wellness_predictor, wellness_run_config = init_wellness_predictor(global_config, logger)
 
     app.run('0.0.0.0', port=8080, debug=True)
